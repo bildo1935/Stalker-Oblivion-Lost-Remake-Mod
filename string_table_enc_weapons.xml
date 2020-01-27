@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="windows-1251" ?>  
+<string_table>
+
+
+	<string id="Weapons1/Ammo">
+		<text>Weapons/Ammunition</text>
+	</string>
+
+
+
+	<string id="wpn-addon-grenade-launcher_oka74protoo">
+		<text>GP-25P "Kostyor" (AIMS-74)</text>
+	</string>
+
+	<string id="oka74protoo_podstvol">
+		<text>A grenade launcher that's meant to be attached to a modified AIMS-74.\n \n Ammunition:\n VOG-25 grenade,\n VOG-25P grenade.</text>
+	</string>
+
+	<string id="oka74protoo">
+		<text>A modified AIMS-74 with aftermarket modifications. In order to help combat equipment shortages, the Ukrainian government bought surplus weapons from Romania as a way to arm soldiers posted in the Zone.\n \n Ammunition:\n standard 5.45x39mm,\n armor-piercing 5.45x39mm BP.</text>
+	</string>
+
+
+
+	<string id="enc_weapons1_wpn-akm74">
+		<text>A Kalashnikov-type assault rifle, chambered for 5.45x39mm. It was first proposed in 1970 by designer Mikhail T. Kalashnikov as a further development of the AKM, and after four years of trials, study, and research it was officially adopted by the armed forces of the USSR in 1974.\n \n Ammunition:\n standard 5.45x35mm,\n armor-piercing 5.45x39mm BP.</text>
+	</string>
+
+	<string id="enc_weapons1_wpn-rpk74">
+		<text>The RPK-74 was introduced in 1974 together with the AK-74 assault rifle and chambered for the new 5.45x39mm intermediate cartridge. It was derived from the AK-74 rifle, with modifications that mirror those made to the AKM to create the RPK. It was intended to replace the PK machine gun, but it never fully did so.\n \n Ammunition:\n standard 5.45x35mm,\n armor-piercing 5.45x39mm BP.</text>
+	</string>
+
+	<string id="enc_weapons1_wpn-akm74m">
+		<text>A further development of the original AK-47, the AKM is an improved version of the original Kalashnikov rifle that was introduced and officially adopted by the armed forces of the USSR in 1959.\n \n Ammunition:\n standard 7.62x54mmR 7N1,\n armor-piercing 7.62x54mmR BP,\n sniper 7.62x54mmR 7N14.</text>
+	</string>
+
+	<string id="wpn-igla">
+		<text>"Igla" MANPADS</text>
+	</string>
+	<string id="wpn-igla_desc">
+		<text>The "Igla" is a third-generation MANPADS. It works both in the conditions of natural (background) heat and artificial interference (spoofing countermeasures). To this day, it remains one of the best systems in its class. \n \n Usage:\n Activate the ground power supply.\n 5 seconds will proceed until the missile is prepared for combat, which consists of cooling down the homing head to working temperature and rotating the tracking system gyroscope.\n Aim the launcher at the target. When the target appears in the field of view of the homing head, a stream of thermal radiation enters the coordinator. If the flow is greater than the minimum sensitivity of the coordinator, a sound signal plays. The target is locked on, and the launch tube is opened.\n When the sound signal plays, the missile is launched. The power supply maintains operation for about 40 seconds after being turned on. If no missile is launched during this time period, the missile is rendered unusable. Locking onto a target at an angle less than 20 degrees between the target and the sun is impossible.\n \n Ammunition:\n "Igla" heat-seeking rocket.</text>
+	</string>
+
+
+	<string id="ammo-igla">
+		<text>Heat-seeking rocket for the "Igla"</text>
+	</string>
+	<string id="ammo-igla_s">
+		<text>"Igla" heat-seeking rocket</text>
+	</string>
+	<string id="ammo-igla_desc">
+		<text>A heat-seeking rocket meant for the "Igla" MANPADS. The missile uses a two-channel infrared GOS system, which allows for the heak-seeking system to differentiate between natural and artificial thermal noise. When the rocket impacts something, or is in close proximity to a target, the detonation fuse will go off. To improve fuel efficiency, the rocket itself uses a two-stage ignition system so it can maintain flight for extended periods of time.</text>
+	</string>
+
+    <string id="enc_weapons1_wpn-ak74u_anom">
+        <text>Rumor has it that this gun was found in a pile of rust in the Garbage, right in the middle of where a gravity anomaly had been for three months. Surprisingly, the gun itself is in good condition. Despite how heavily it was used, there's no noticeable wear and tear.\n \n
+		Features: Because of its unique interaction with the Zone, this gun is much more inferior to conventional Kalashnikov's in terms of accuracy and damage, but its more easy and mobile to use.\n \n Ammunition:\n standard 5.45x35mm,\n armor-piercing 5.45x39mm BP.</text>
+    </string>    
+
+    <string id="enc_weapons1_wpn-gauss_m">
+        <text>A gauss rifle that comes with a larger detachable magazine.\n \n Ammunition:\n Gauss rounds.</text>
+    </string>
+
+    <string id="enc_weapons1_wpn-knife_m1">
+        <text>The personal knife from a stalker named 'Scrap'. The handle is badly worn, but if you hold it, you'll notice that it fits perfectly in your hand.</text>
+    </string> 
+
+    <string id="enc_equipment_devic_device-torch1_m2">
+        <text>A halogen light. This is an experimental prototype, so it's possible it'll malfunction.</text>
+    </string> 
+
+    <string id="weapon_addon_scope_m">
+        <text>PSO-1 "Strelka" Optical Sight</text>
+    </string> 
+
+    <string id="weapon_addon_scope_susat_m">
+        <text>"Diamond" Optical Sight</text>
+    </string>     
+
+    <string id="enc_weapons1_wpn-svu_m1">
+        <text>A SVU bullpup sniper rifle that has been modified to have a greater rate of fire, at the expense of poorer accuracy.\n \n Ammunition:\n standard 7.62x54mmR 7N1,\n armor-piercing 7.62x54mmR BP ,\n sniper 7.62x54mmR 7N14.</text>
+    </string> 
+
+    <string id="enc_weapons1_wpn-g36_m">
+        <text>This specific G36 has been altered by spraying powder from a grounded up gravitational artifact onto the barrel, improving overall accuracy.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.\n \n Grenade launcher ammunition:\n M209 grenades.</text>
+    </string>   
+
+    <string id="enc_weapons1_wpn-vintorez_m1">
+        <text>This Vintorez has a dedication to honor the memory of a deceased stalker written on the side. In addition to the inscription, various adjustments were made to the weapon, which result in superior accuracy, but poorer reliability.\n \n Ammunition:\n standard 9x39mm PAB-9,\n armor-piercing 9x39mm SP-6,\n sniper 9x39mm SP-5.</text>
+    </string> 
+
+    <string id="enc_weapons1_wpn-beretta_m1">
+        <text>This Beretta has been modified by gunsmiths who work for scientists in the Zone. It has better reliability, making it a popular choice with scientists who need a handgun that is easy to use and can withstand the Zone's conditions.\n \n Ammunition:\n standard 9x19mm FMJ,\n improved 9x19mm PB1s.</text>
+    </string>  
+
+	<string id="Ammo">
+		<text>Ammunition</text>
+	</string>
+	<string id="ammo-11.43x23-fmj">
+		<text>.45 ACP rounds</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_s">
+		<text>.45 ACP</text>
+	</string>
+	<string id="ammo-11.43x23-hydro">
+		<text>.45 ACP Hydro-Shock rounds</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_s">
+		<text>.45 ACP Hydro</text>
+	</string>
+	<string id="ammo-12x70-buck">
+		<text>12x70 shot rounds</text>
+	</string>
+	<string id="ammo-12x70-buck_s">
+		<text>12x70 shot</text>
+	</string>
+	<string id="ammo-12x76-dart">
+		<text>12x76 dart rounds</text>
+	</string>
+	<string id="ammo-12x76-dart_s">
+		<text>12x76 dart</text>
+	</string>
+	<string id="ammo-12x76-zhekan">
+		<text>12x76 slug rounds</text>
+	</string>
+	<string id="ammo-12x76-zhekan_s">
+		<text>12x76 slug</text>
+	</string>
+	<string id="ammo-5.45x39-ap">
+		<text>5.45x39mm BP rounds</text>
+	</string>
+	<string id="ammo-5.45x39-ap_s">
+		<text>5.45x39mm BP</text>
+	</string>
+	<string id="ammo-5.45x39-fmj">
+		<text>5.45x39mm rounds</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_s">
+		<text>5.45x39mm</text>
+	</string>
+	<string id="ammo-5.56x45-ap">
+		<text>5.56x45mm AP rounds</text>
+	</string>
+	<string id="ammo-5.56x45-ap_s">
+		<text>5.56x45mm AP</text>
+	</string>
+	<string id="ammo-5.56x45-ss190">
+		<text>5.56x45mm SS109 rounds</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_s">
+		<text>5.56x45mm SS109</text>
+	</string>
+	<string id="ammo-7.62x54-7h1">
+		<text>7.62x54RmmR 7N1 rounds</text>
+	</string>
+	<string id="ammo-7.62x54-7h1_s">
+		<text>7.62x54RmmR 7N1</text>
+	</string>
+	<string id="ammo-7.62x54-7h14">
+		<text>7.62x54mmR 7N14 rounds</text>
+	</string>
+	<string id="ammo-7.62x54-7h14_s">
+		<text>7.62x54mmR 7N14</text>
+	</string>
+	<string id="ammo-7.62x54-ap">
+		<text>7.62x54mmR BP rounds</text>
+	</string>
+	<string id="ammo-7.62x54-ap_s">
+		<text>7.62x54mmR BP</text>
+	</string>
+	<string id="ammo-9x18-fmj">
+		<text>9x18mm rounds</text>
+	</string>
+	<string id="ammo-9x18-fmj_s">
+		<text>9x18mm</text>
+	</string>
+	<string id="ammo-9x18-pmm">
+		<text>9x18mm +P+ rounds</text>
+	</string>
+	<string id="ammo-9x18-pmm_s">
+		<text>9x18mm +P+</text>
+	</string>
+	<string id="ammo-9x18-pbp">
+		<text>9x18mm PBP rounds</text>
+	</string>
+	<string id="ammo-9x18-pbp_s">
+		<text>9x18mm PBP</text>
+	</string>
+	<string id="ammo-9x19-fmj">
+		<text>9x19mm FMJ rounds</text>
+	</string>
+	<string id="ammo-9x19-fmj_s">
+		<text>9x19mm FMJ</text>
+	</string>
+	<string id="ammo-9x19-pbp">
+		<text>9x19mm PB1s rounds</text>
+	</string>
+	<string id="ammo-9x19-pbp_s">
+		<text>9x19mm PB1s</text>
+	</string>
+	<string id="ammo-9x39-ap">
+		<text>9x39mm SP-6 rounds</text>
+	</string>
+	<string id="ammo-9x39-ap_s">
+		<text>9x39mm SP-6</text>
+	</string>
+	<string id="ammo-9x39-pab9">
+		<text>9x39mm PAB-9 rounds</text>
+	</string>
+	<string id="ammo-9x39-pab9_s">
+		<text>9x39mm PAB-9</text>
+	</string>
+	<string id="ammo-9x39-sp5">
+		<text>9x39mm SP-5 rounds</text>
+	</string>
+	<string id="ammo-9x39-sp5_s">
+		<text>9x39mm SP-5</text>
+	</string>
+	<string id="ammo-gauss">
+		<text>Gauss rounds</text>
+	</string>
+	<string id="ammo-gauss_s">
+		<text>Gauss rounds</text>
+	</string>
+	<string id="ammo-m209">
+		<text>M209 grenade</text>
+	</string>
+	<string id="ammo-m209_s">
+		<text>M209</text>
+	</string>
+	<string id="ammo-og-7b">
+		<text>PG-7VL missile</text>
+	</string>
+	<string id="ammo-og-7b_s">
+		<text>PG-7VL</text>
+	</string>
+	<string id="ammo-vog-25">
+		<text>VOG-25 grenade</text>
+	</string>
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+	<string id="ammo-vog-25p">
+		<text>VOG-25P grenade</text>
+	</string>
+	<string id="ammo-vog-25p_s">
+		<text>VOG-25P</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-11.43x23-fmj">
+		<text>A standard round for the Colt M1911, the P220, the USP, and the Desert Eagle. It has a standard core and a full-jacketed bullet.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-11.43x23-hydro">
+		<text>An Hydro-Shock round with improved characteristics for the the Colt M1911, the P220, the USP, and the Desert Eagle. It has a hollow-point bullet with a good stopping effect.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x70-buck">
+		<text>A standard 12 calibre round filled with 6 mm shot. It has an enormous killing power at a close range. It is designed for the TOZ-34, the BM-16, the Protecta, the Winchester-1300, and the SPAS-12. It is most effective at ranges under 30 meters.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x76-dart">
+		<text>A finned bullet. It can stabilize in flight, which increases its accuracy. It is designed for the TOZ-34, the BM-16, the Protecta, the Winchester-1300, and the SPAS-12. It has an armor-piercing effect and an increased range. It is effective at a range of up to 150 meters.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-12x76-zhekan">
+		<text>A round with a heavy naked bullet. It is usually used for big game hunting, but can be used for other purposes. Its heavy bullet does not pierce but actually forces itself through bulletproof vests. It is designed for the TOZ-34, the BM-16, the Protecta, the Winchester-1300, and the SPAS-12. It is effective at a range of up to 100 meters.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.45x39-ap">
+		<text>An armor-piercing round for the AIMS-74, the RPK-74, the AKS-74, and the AKS-74U. It has an improved armor-piercing effect, but a decreased stopping effect.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.45x39-fmj">
+		<text>A standard round for the AIMS-74, the RPK-74, the AKS-74, and the AKS-74U. It has a standard core and a full-jacketed bullet.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.56x45-ap">
+		<text>A round with an armor-piercing bullet for the L85, the LR-300, the SIG-550, the M134, the G36, and the FN-2000.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-5.56x45-ss190">
+		<text>A standard NATO round widely-known under its Belgian SS109 index. It is used with the L85, the LR-300, the SIG-550, the M134, the G36, and the FN-2000.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-7h1">
+		<text>A cheap modification of the sniper round for the SVD, the SVU, the PKM, and the AKM.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-7h14">
+		<text>A sniper round for the SVD, the SVU, the PKM, and the AKM. It has an improved accuracy and range.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-7.62x54-ap">
+		<text>A round with an armor-piercing bullet for the SVD, the SVU, the PKM, and the AKM.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x18-fmj">
+		<text>A standard round for the PM, the PB, the APS, and the Fort-12. It has a standard core and a full-jacketed bullet. It has a weak armor-piercing effect.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x18-pmm">
+		<text>A round with improved ballistic characteristics for the PM, the PB, the APS, and the Fort-12. Due to the high initial velocity of its bullet, it is much more effective then a standard round. It has a better armor-piercing effect.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x18-pbp">
+		<text>A cartridge with armor-piercing characteristics for the PM, the PB, the APS, and the Fort-12.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x19-fmj">
+		<text>A standard round for the FN HPSA, the Walther P99, the Beretta 92 FS, the GSH-18, and the HK MP5. It has a full-jacketed bullet with a weak armor-piercing effect.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x19-pbp">
+		<text>An improved round for the FN HPSA, the Walther P99, the Beretta 92 FS, the GSH-18, and the HK MP5. A high-powered round with a hollow-point bullet and an armor-piercing core.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x39-ap">
+		<text>An armor-piercing round for the "Groza", the AS "Val", and the "Vintorez". It has a subsonic bullet which due to its special design can penetrate most bulletproof vests at a range of up to 400 meters.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x39-pab9">
+		<text>A round for the  for the "Groza", the AS "Val", and the "Vintorez". The later and cheaper modification of the armor-piercing round. It has a subsonic bullet which due to its special design can penetrate most bulletproof vests at a range of up to 300 meters.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-9x39-sp5">
+		<text>A sniper round for the "Groza", the AS "Val", and the "Vintorez". It has a subsonic bullet which due to its heavy weight and special design can penetrate most bulletproof vests at a range of up to 400 meters.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-gauss">
+		<text>Energy cells prepared with lethal elements in a Gauss rifle magazine. The energy source is an encapsulated piece of the Flash artifact.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-m209">
+		<text>A grenade for the M203 grenade launcher (for the LR-300, the G36, the SIG-550, and the L85) and the integrated grenade launcher of the FN-2000.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-og-7b">
+		<text>A highly-explosive grenade for the RPG-7V. It is equally effective against troops and light armored vehicles.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-vog-25">
+		<text>A grenade for the GP-25 "Kostyor" grenade launcher, the integrated grenade launcher of the "Groza", and the RG-6 revolver grenade launcher.</text>
+	</string>
+	<string id="enc_weapons1_ammo_ammo-vog-25p">
+		<text>A grenade for the GP-25 "Kostyor" grenade launcher, the integrated grenade launcher of the "Groza", and the RG-6 revolver grenade launcher. Prior to explosion the grenade leaps up about one meter increasing its killing effect.</text>
+	</string>
+	<string id="enc_weapons1_grenade-f1">
+		<text>A defensive hand grenade with a large radius of splinter damage. It is recommended to throw it only from behind cover.</text>
+	</string>
+	<string id="enc_weapons1_grenade-gd05">
+		<text>A smoke grenade. Dedicated to create a smoke screen. Lasts for 10 seconds.</text>
+	</string>
+	<string id="enc_weapons1_grenade-rgd5">
+		<text>An offensive hand grenade with a small radius of splinter damage.</text>
+	</string>
+	<string id="enc_weapons1_wpn-abakan">
+		<text>The weapon of the elite troops in the Russian army. It was designed as a replacement for the outdated AK-74. Not only the Abakans internal mechanisms but also its receiver and its barrel are movable, which decreases the recoil and increases accuracy.\n \n Ammunition:\n standard 7.62x54mm 7N1,\n armor-piercing 7.62x54mm BP ,\n sniper 7.62x54mmR 7N14.</text>
+	</string>
+	<string id="enc_weapons1_wpn-abakan_m1">
+		<text>Machine gun supplied with a modified optic sight for carrying out sniper fire. The optics embedded into the body of the weapon has a higher resolution than the standard model.\n \n Ammunition:\n standard 7.62x54mm 7N1,\n armor-piercing 7.62x54mm BP ,\n sniper 7.62x54mmR 7N14.</text>
+	</string>
+	<string id="enc_weapons1_wpn-abakan_m2">
+		<text>Given machine gun has an integral granade launcher to go under the barrel, which makes this an even more universal weapon.\n \n Ammunition:\n standard 7.62x54mm 7N1,\n armor-piercing 7.62x54mm BP ,\n sniper 7.62x54mmR 7N14.\n \n Grenade launcher ammunition:\n VOG-25 grenade,\n VOG-25P grenade.</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-grenade-launcher">
+		<text>A grenade launcher for assault rifles used in former Warsaw Pact countries.\n \n Ammunition:\n VOG-25 grenade,\n VOG-25P grenade.</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-grenade-launcher-m203">
+		<text>A grenade launcher for NATO-standardized assault rifles.\n \n Ammunition:\n M209 grenade.</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope">
+		<text>A widely used Soviet scope. The scope can be mounted on a weapon using a dovetail mount used by the Warsaw Pact countries.</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-scope-susat">
+		<text>A 4-x scope produced in the NATO countries. It can be attached to a standard NATO mount, also called the Picatinni rail.</text>
+	</string>
+	<string id="enc_weapons1_wpn-addon-silencer">
+		<text>An effective silencer made by Zone gunsmiths. The kit includes a set of adapters for weapons of any calibre.</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74">
+		<text>Assault rifle with a folding butt, 1974 model, uses 5.45x39mm ammunition. It is a simple and reliable weapon, but the cheapness of its production affected its ergonomy and accuracy. In the Zone, it is the main weapon of the military stalkers and of many solo fighters.\n \n Ammunition:\n standard 5.45x39mm,\n armor-piercing 5.45x39mm BP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74_m1">
+		<text>The modified closing system increases the speed of shooting.\n \n Ammunition:\n standard 5.45x39mm,\n armor-piercing 5.45x39mm BP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74u">
+		<text>The weight and size of the AKS-74U are similar to those of a submachine gun, but its operation mode and the ammunition it uses place it into the class of the assault rifles. Its advantages are its small dimensions very useful when fighting inside a building or in a thick forest and a relatively high piercing capabilities. Its main disadvantages are a limited accuracy range and quick overheating when firing bursts.\n \n Ammunition:\n standard 5.45x39mm,\n armor-piercing 5.45x39mm BP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-ak74u_m1">
+		<text>Enhanced machine gun. Comes with a non-replaceable silencer.\n \n Ammunition:\n standard 5.45x39mm,\n armor-piercing 5.45x39mm BP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-beretta">
+		<text>Adopted by the American army and police, as well as many military and police units all over the world. It is also very popular among the criminals for its high-powered round and its high-capacity magazine.\n \n Ammunition:\n standard 9x19mm FMJ,\n improved 9x19mm PB1s.</text>
+	</string>
+	<string id="enc_weapons1_wpn-bm16">
+		<text>A full-length version of the BM-16 shotgun. Its accuracy and bullet trajectory flatness is good. Suitable for hunting wild boars and larger animals. The BM-16 is often seen in the hands of rookies, and merchants always hold them in stock for sale.\n \n Ammunition:\n 12x70 shot,\n 12x76mm slug,\n 12x76mm dart.</text>
+	</string>
+	<string id="enc_weapons1_wpn-colt_m1">
+		<text>Weapon of hired assassins. Good old reliable Colt, comes with a non-replaceable silencer.\n \n Ammunition:\n standard .45 ACP,\n improved .45 ACP Hydro-Shock.</text>
+	</string>
+	<string id="enc_weapons1_wpn-colt1911">
+		<text>A nice gun, which was presented in all the conflicts of the 20th century with honor and entered the new century with confidence. Its small-size magazine is partially compensated by the use of a high-powered round.\n \n Ammunition:\n standard .45 ACP,\n improved .45 ACP Hydro-Shock.</text>
+	</string>
+	<string id="enc_weapons1_wpn-desert-eagle">
+		<text>A real gun for real heroes. It is big, heavy and very destructive. It is not very popular in the Zone due to its price and size. After all, you don't go hunting for elephants every day!\n \n Ammunition:\n standard .45 ACP,\n improved .45 ACP Hydro-Shock.</text>
+	</string>
+	<string id="enc_weapons1_wpn-eagle_m1">
+		<text>A gun that is already powerful, reworked to fit rifle bullets. Truly a killing machine for close-range combat.\n \n Ammunition:\n standard 9x39mm PAB-9,\n armor-piercing 9x39mm SP-6,\n sniper 9x39mm SP-5.</text>
+	</string>
+	<string id="enc_weapons1_wpn-fn2000">
+		<text>An assault rifle combined with a grenade launcher. It is equipped with an electronic fire control module and a 40-mm grenade launcher.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.\n \n Grenade launcher ammunition:\n M209 grenade.</text>
+	</string>
+	<string id="enc_weapons1_wpn-fort">
+		<text>A police pistol of Ukrainian production, which replaced the PM. In comparison with the other pistols, it has improved accuracy, ergonomics and a larger magazine, but it is less reliable.\n \n Ammunition:\n standard 9x18mm,\n improved 9x18mm +P+,\n armor-piercing 9x18mm PBP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-fort_m1">
+		<text>Experimental prototype of the Fort gun. This prototype is equipped with a larger magazine.\n \n Ammunition:\n standard 9x18mm,\n improved 9x18mm +P+,\n armor-piercing 9x18mm PBP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-g36">
+		<text>A German assault rifle. It is a first-grade specimen of the modern weaponry: it is light, reliable, and ergonomic.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-gauss">
+		<text>A super-accurate weapon made by the scientists in the Zone. It is almost noiseless, because instead of gunpowder, it uses the artifact's energy for firing rather than steam gases. In spite of the Gauss guns tremendous firepower, the recoil is insignificant. The accuracy and the killing power of this gun exceed those of all other small arms.\n \n Ammunition: Gauss rounds.</text>
+	</string>
+	<string id="enc_weapons1_wpn-groza">
+		<text>An assault rifle combined with a grenade launcher. It is a very good type of assault rifle for the Zone conditions: it is compact, reliable, but universal and powerful. The Groza is one of the favorite rifles of the military stalkers.\n \n Ammunition:\n standard 9x39mm PAB-9,\n armor-piercing 9x39mm SP-6,\n sniper 9x39mm SP-5,\n VOG-25 and VOG-25P grenades for the grenade launcher.</text>
+	</string>
+	<string id="enc_weapons1_wpn-groza-old">
+		<text>An experimental prototype of the Groza. It has an increased magazine capacity, a non-removable silencer, and a three round burst firing mode.\n \n Ammunition:\n standard 9x39mm PAB-9,\n armor-piercing 9x39mm SP-6,\n sniper 9x39mm SP-5,\n VOG-25 and VOG-25P grenades for the grenade launcher.</text>
+	</string>
+	<string id="enc_weapons1_wpn-groza_m1">
+		<text>The given barrel is the excellent work of one of the stalkers-craftsmen who managed to work the rifle to by able to fit the more widespread 5.45 mm bullet.\n \n Ammunition:\n standard 5.45x39mm,\n armor-piercing 5.45x39mm BP,\n VOG-25 and VOG-25P grenades for the grenade launcher.</text>
+	</string>
+	<string id="enc_weapons1_wpn-hpsa">
+		<text>This pistol deserves to be considered as one of the best pistols of the 20th century. It is reliable, powerful and has a good grouping of shots. The magazine can hold 13 rounds.\n \n Ammunition:\n standard 9x19mm FMJ,\n improved 9x19mm PB1s.</text>
+	</string>
+	<string id="enc_weapons1_wpn-knife">
+		<text>A knife. Useful for hunting or close-quarters meele combat.</text>
+	</string>
+	<string id="enc_weapons1_wpn-l85">
+		<text>After the British army replaced this rifle with the German-made G36, it appeared in large quantities first on the black market and then in the Zone. The L85s main advantages are a standard 4-x scope and the high accuracy of the first shot. In burst mode, its accuracy decreases greatly, and the main mechanisms of the rifle are not reliable enough.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-l85_m1">
+		<text>With a few modifications the effect of the throwing up of the barrel was diminished.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-l85_m2">
+		<text>Weapon comes with an integrated silencer. Many parts are replaced with lighter analogues, which makes the weapon significantly lighter.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-lr300">
+		<text>The latest development of the Z-M Weapons company owned by Allan Zitta. Allan is well known for his extensive experience in developing new pistols based on Colt M1911. The LR-300 is a new stage in the AR-15's development. LR-300 stands for 'Light Rifle of effective fire up 300 meters'. The upper and lower receiver support a new type of interconnecting operation-rod gas system, which allows for a short barrel and folding stock, giving the weapon its compact profile. One of the features of its new gas system is its diverted recoil, which helps to keep the weapon on target with no muzzle climb.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-lr300_m1">
+		<text>Modification of storming weaponry for firing single shots. It was assumed that it was going to be used as a cheap analog to the sniper rifle.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5">
+		<text>One of the best weapons in the submachine gun class. During the last decades of the 20th century it was adopted by the army and police special forces units in many countries. When it was gradually replaced with more up-to-date models, it appeared on the black market, and then in the Zone.\n \n Ammunition:\n standard 9x19mm FMJ,\n improved 9x19mm PB1s.</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5_m1">
+		<text>Light, compact, and now redone to fit a more wide-spread caliber, this machine gun is a true find for beginning shooters.\n \n Ammunition:\n standard 9x18mm,\n improved 9x18mm +P+,\n armor-piercing 9x18mm PBP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-mp5_m2">
+		<text>A variation on a basic model. A non-removable silencer is added.\n \n Ammunition:\n standard 9x19mm FMJ,\n improved 9x19mm PB1s.</text>
+	</string>
+	<string id="enc_weapons1_wpn-pb">
+		<text>A pistol with an integrated silencer, it was used by Soviet special forces. It is now outdated, but in skilful hands, still very effective.\n \n Ammunition:\n standard 9x18mm,\n improved 9x18mm +P+,\n armor-piercing 9x18mm PBP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-pm">
+		<text>Designed and manufactured by Izhevsk Machine Engineering Plant in Russia for police and military armament since 1949, this is the most widespread pistol in the Zone. It is a legacy of the Soviet era. It is relatively reliable and cheap, has low magazine capacity, low power and an unsatisfactory grouping of shots. It is the main weapon of a beginning stalker.\n \n Ammunition:\n standard 9x18mm,\n improved 9x18mm +P+,\n armor-piercing 9x18mm PBP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-rg-6">
+		<text>A revolver-type grenade launcher. Sometimes, it is just indispensable, particularly when targeting large numbers of mutants, attacking well-guarded stationary objects or fighting especially tough creatures.\n \n Ammunition: VOG-25 grenade,\n and VOG-25P grenade.</text>
+	</string>
+	<string id="enc_weapons1_wpn-rg6_m1">
+		<text>A variation of the revolving grenade launcher. The given model is made especially for use of grenade of the western model.\n \n Ammunition:\n M209 grenade.</text>
+	</string>
+	<string id="enc_weapons1_wpn-rpg7">
+		<text>A grenade launcher developed in the 1960s. Such grenade launchers are stored in large quantities in army depots, from where they are transferred to the Zone. Such weapon is rare for stalkers: its huge dimensions and heavy weight make it unpopular, though it is indispensable for some missions.\n \n Ammunition: PG-7VL.</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig_m1">
+		<text>he weapon was made for warfare in the city. To lessen the weight, some parts were removed or replaced. As a result, there is no way to attach neither a sight nor a grenade launcher under the barrel. But at least it weighs almost half of what it did before.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig_m2">
+		<text>Modified for sniper fire. Furnished with a non-removeable optical sight of heightened focus.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig220">
+		<text>A model developed back in 1975 but still popular all around the world. Its magazine has low capacity, but its mechanism is absolutely reliable. Its second advantage is the use of the high-powered Colt round.\n \n Ammunition:\n standard .45 ACP,\n improved .45 ACP Hydro-Shock.</text>
+	</string>
+	<string id="enc_weapons1_wpn-sig550">
+		<text>A relatively new assault rifle for the 5.56x45mm SS109 round. This weapon is very popular due to its accuracy, soft recoil, and high reliability.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-spas12">
+		<text>The SPAS-12 smooth-bore rifle was developed in the late 1970s. This weapon is very reliable and flexibly used. It is however relatively big, expensive and its mechanism is too complex. Probably, this is the best close range gun in the Zone.\n Ammunition:\n 12x70 shot,\n 12x76 slug,\n 12x76 dart.</text>
+	</string>
+	<string id="enc_weapons1_wpn-spas12_m1">
+		<text>UNIQUE WEAPON. This shotgun model has a rifled bore which greatly increases its accuracy when firing darts or slugs. However, using shot is more difficult.\n Ammunition:\n 12x70 shot,\n 12x76 slug,\n 12x76 dart.</text>
+	</string>
+	<string id="enc_weapons1_wpn-svd">
+		<text>This rifle was widely used in all operations of the Soviet and Russian armies since 1960. It proved itself to be an exceptionally reliable and handy weapon. In the Zone it is preferred by the experienced stalkers of the Duty faction which hunt mutants.\n \n Ammunition:\n standard 7.62x54mm 7N1,\n armor-piercing 7.62x54mm BP,\n sniper 7.62x54mm 7N14.</text>
+	</string>
+	<string id="enc_weapons1_wpn-svd_m1">
+		<text>Improved optics, and thanks to the change the resolution of the image is increased. The balance in the weapon is increased, and as a result the recoil is decreased.\n \n Ammunition:\n standard 7.62x54mm 7N1,\n armor-piercing 7.62x54mm BP,\n sniper 7.62x54mm 7N14.</text>
+	</string>
+	<string id="enc_weapons1_wpn-svu">
+		<text>A more up-to-date version of the sniper rifle. A compact bullpup model. It is excellent for long trips in the Zone.\n \n Ammunition:\n standard 7.62x54mm 7N1,\n armor-piercing 7.62x54mm BP,\n sniper 7.62x54mm 7N14.</text>
+	</string>
+	<string id="enc_weapons1_wpn-toz34">
+		<text>This hunting rifle is popular but there's nothing noteworthy about it.\n Ammunition:\n 12x70 shot,\n 12x76 slug,\n 12x76 dart.</text>
+	</string>
+	<string id="enc_weapons1_wpn-usp">
+		<text>A reliable weapon. As a quality compact close-range weapon, it is very popular among the Zone veterans.\n \n Ammunition:\n standard .45 ACP,\n improved .45 ACP Hydro-Shock.</text>
+	</string>
+	<string id="enc_weapons1_wpn-val">
+		<text>This weapon is based on the Vintorez suppressed sniper rifle, but it has a folding butt, can fire bursts and has a larger magazine. It was originally designed for special forces operating in conditions demanding noiseless and flameless fire.\n \n Ammunition:\n standard 9x39mm PAB-9,\n armor-piercing 9x39mm SP-6,\n sniper 9x39mm SP-5.</text>
+	</string>
+	<string id="enc_weapons1_wpn-val_m1">
+		<text>Differs from the basic model in its ability to add an optical sight PSO-1.\n \n Ammunition:\n standard 9x39mm PAB-9,\n armor-piercing 9x39mm SP-6,\n sniper 9x39mm SP-5.</text>
+	</string>
+	<string id="enc_weapons1_wpn-vintorez">
+		<text>A special sniper rifle designed for noiseless and flameless sniper fire and equipped with an integrated silencer. It can pierce any bulletproof vest at a range of 400 meters. It is a weapon highly valued by stalkers of any level.\n \n Ammunition:\n standard 9x39mm PAB-9,\n armor-piercing 9x39mm SP-6,\n sniper 9x39mm SP-5.</text>
+	</string>
+	<string id="enc_weapons1_wpn-walther">
+		<text>An excellent pistol. Highly reliable with a high capacity magazine and a good fire accuracy, especially in the case of the model designed for the 9mm FMJ round.\n \n Ammunition:\n standard 9x19mm FMJ,\n improved 9x19mm PB1s.</text>
+	</string>
+	<string id="enc_weapons1_wpn-walther_m1">
+		<text>Modification of the gun for ability to use bullets of the 9x18mm calibre.\n \n Ammunition:\n standard 9x18mm,\n improved 9x18mm +P+,\n armor-piercing 9x18mm PBP.</text>
+	</string>
+	<string id="enc_weapons1_wpn-wincheaster1300">
+		<text>An smooth-bore pump-action rifle made for use in the most hostile environment. It is very reliable. All its details are covered with anticorrosive coating.\n \n Ammunition:\n 12x70 shot,\n 12x76 slug,\n 12x76 dart.</text>
+	</string>
+	<string id="enc_weapons1_wpn-hunters_toz">
+		<text>An old family heirloom, this old TOZ-34 is perfectly preserved thanks to careful care. Minor adjustments were applied to the trigger mechanism, which helps to reduce any wear and tear it gets when its used.</text>
+	</string>
+	<string id="enc_weapons1_wpn-pri_lom_ak74">
+		<text>A stalker who went by the name 'Scrap' used to work as a mechanic at a locksmith factory. When got his hands on this AK-74, he made several small changes to it in order to increase its rate of fire.</text>
+	</string>
+	<string id="enc_weapons1_wpn-deserteagle_coll">
+		<text>Gordon Freeman's Desert Eagle. The main parts of this gun are made of a more durable alloy, which gives the pistol a longer lifespan.</text>
+	</string>
+	<string id="enc_weapons1_wpn-vintorez_coll">
+		<text>This Vintorez has been modified. The several adjustments were made to the trigger mechanism, which helps to reduce wear and tear when its used. The magazine capacity was also increased to 20 rounds.</text>
+	</string>
+	<string id="grenade-f1">
+		<text>F-1</text>
+	</string>
+	<string id="grenade-gd05">
+		<text>GD-05</text>
+	</string>
+	<string id="grenade-rgd5">
+		<text>RGD-5</text>
+	</string>
+	<string id="grenade-rgo1">
+		<text>RGO-1</text>
+	</string>
+	<string id="Weapons1">
+		<text>Weapons</text>
+	</string>
+	<string id="wp_desert_eagle">
+		<text>Desert Eagle</text>
+	</string>
+	<string id="wpn_hpsa">
+		<text>FN HPSA</text>
+	</string>
+	<string id="wpn_usp">
+		<text>USP</text>
+	</string>
+	<string id="wpn-abakan">
+		<text>AKM</text>
+	</string>
+	<string id="wpn-abakan_m1">
+		<text>Sniper AKM</text>
+	</string>
+	<string id="wpn-abakan_m2">
+		<text>Storming AKM</text>
+	</string>
+	<string id="wpn-addon-grenade-launcher">
+		<text>GP-25 "Kostyor"</text>
+	</string>
+	<string id="wpn-addon-grenade-launcher-m203">
+		<text>M203</text>
+	</string>
+	<string id="wpn-addon-scope">
+		<text>PSO-1 scope</text>
+	</string>
+	<string id="wpn-addon-scope-susat">
+		<text>SUSAT scope</text>
+	</string>
+	<string id="wpn-addon-silencer">
+		<text>Silencer</text>
+	</string>
+	<string id="wpn-ak74">
+		<text>AKS-74</text>
+	</string>
+	<string id="wpn-ak74_m1">
+		<text>Rapid-fire AKS-74</text>
+	</string>
+	<string id="wpn-ak74u">
+		<text>AKS-74U</text>
+	</string>
+	<string id="wpn-ak74u_m1">
+		<text>AKS-74U "Spetsnaz"</text>
+	</string>
+	<string id="wpn-beretta">
+		<text>Beretta 92 FS</text>
+	</string>
+	<string id="wpn-bm16">
+		<text>BM-16</text>
+	</string>
+	<string id="wpn-colt_m1">
+		<text>Silenced Colt M1911</text>
+	</string>
+	<string id="wpn-colt1911">
+		<text>Colt M1911</text>
+	</string>
+	<string id="wpn-eagle_m1">
+		<text>"Big Ben" Desert Eagle</text>
+	</string>
+	<string id="wpn-fn2000">
+		<text>FN-2000</text>
+	</string>
+	<string id="wpn-fort">
+		<text>Fort-12</text>
+	</string>
+	<string id="wpn-fort_m">
+		<text>Fort-12M</text>
+	</string>
+	<string id="wpn-g36">
+		<text>HK G36</text>
+	</string>
+	<string id="wpn-gauss">
+		<text>Gauss rifle</text>
+	</string>
+	<string id="wpn-groza">
+		<text>Groza</text>
+	</string>
+	<string id="wpn-groza-old">
+		<text>Groza prototype</text>
+	</string>
+	<string id="wpn-groza-old-s">
+		<text>Groza prototype</text>
+	</string>
+	<string id="wpn-groza_m1">
+		<text>Groza 5.45</text>
+	</string>
+	<string id="wpn-l85">
+		<text>L85</text>
+	</string>
+	<string id="wpn-l85_m1">
+		<text>Balanced L85</text>
+	</string>
+	<string id="wpn-l85_m2">
+		<text>Lightened L85</text>
+	</string>
+	<string id="wpn-lr300">
+		<text>LR-300</text>
+	</string>
+	<string id="wpn-lr300_m1">
+		<text>LR-300 Sniper</text>
+	</string>
+	<string id="wpn-mp5">
+		<text>HK MP5</text>
+	</string>
+	<string id="wpn-mp5_m1">
+		<text>HK MP5 9x18</text>
+	</string>
+	<string id="wpn-mp5_m2">
+		<text>Silenced HK MP5</text>
+	</string>
+	<string id="wpn-pb">
+		<text>PB</text>
+	</string>
+	<string id="wpn-pm">
+		<text>PM</text>
+	</string>
+	<string id="wpn-rg-6">
+		<text>RG-6</text>
+	</string>
+	<string id="wpn-rg6_m1">
+		<text>RG-6 M203</text>
+	</string>
+	<string id="wpn-rpg7">
+		<text>RPG-7V</text>
+	</string>
+	<string id="wpn-sig_m1">
+		<text>SIG-550 "Storm"</text>
+	</string>
+	<string id="wpn-sig_m2">
+		<text>SIG-550 "Sniper"</text>
+	</string>
+	<string id="wpn-sig220">
+		<text>P220</text>
+	</string>
+	<string id="wpn-sig550">
+		<text>SIG-550</text>
+	</string>
+	<string id="wpn-spas12">
+		<text>SPAS-12</text>
+	</string>
+	<string id="wpn-spas12_m1">
+		<text>Threaded SPAS-12</text>
+	</string>
+	<string id="wpn-svd">
+		<text>SVD</text>
+	</string>
+	<string id="wpn-svd_m1">
+		<text>"Farshooter" SVD</text>
+	</string>
+	<string id="wpn-svu">
+		<text>SVU</text>
+	</string>
+	<string id="wpn-toz34">
+		<text>TOZ-34</text>
+	</string>
+	<string id="wpn-val">
+		<text>AS "Val"</text>
+	</string>
+	<string id="wpn-val_m1">
+		<text>"Val"</text>
+	</string>
+	<string id="wpn-vintorez">
+		<text>VSS</text>
+	</string>
+	<string id="wpn-walther">
+		<text>Walther P99</text>
+	</string>
+	<string id="wpn-walther_m1">
+		<text>Walther 9x18</text>
+	</string>
+	<string id="wpn-wincheaster1300">
+		<text>Winchester-1300</text>
+	</string>
+	<string id="wpn-wincheaster1300_short">
+		<text>Winchester</text>
+	</string>
+	<string id="wpn-vintorez_coll">
+		<text>Improved "Vintorez"</text>
+	</string>
+	
+	<string id="wpn_bm16_full">
+		<text>BM-16</text>
+	</string>
+    <string id="enc_weapons_wpn_bm16_full">
+		<text>A full-length version of the BM-16 shotgun. Its accuracy and bullet trajectory flatness is good. Suitable for hunting wild boars and larger animals. The BM-16 is often seen in the hands of rookies, and merchants always hold them in stock for sale.\n \n Ammunition:\n 12x70 shot,\n 12x76mm slug,\n 12x76mm dart.</text>
+    </string>
+	
+	<string id="wpn-p90_name">
+		<text>FN P90</text>
+	</string>
+	<string id="enc_weapons1_wpn-p90">
+		<text>A Belgian submachine gun developed in the 1980s by FN Herstal. Despite its unusual appearance, it is quite effective. In the Zone, the FN P90 was bought in bulk by gunsmiths and rechambered for the much more common 5.56x45mm cartridge, as the original cartridge it was designed for, 5.7x28mm, is much more rare and expensive. If compared to regular P90's, this rechambered one has much better ballistic performance, and it still retains the low recoil the P90 is known for.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.</text>
+	</string>
+	
+	<string id="wpn-pkm_name">
+		<text>PKM</text>
+	</string>
+	<string id="enc_weapons1_wpn-pkm">
+		<text>A PKM machine gun. Very heavy and difficult to hip-fire effectively. In the Zone, these are extremely rare and are only used by military stalkers equipped with exoskeletons.\n \n Ammunition:\n standard 7.62x54mm 7N1,\n armor-piercing 7.62x54mm BP ,\n sniper 7.62x54mmR 7N14.</text>
+	</string>
+	<string id="wpn-aps">
+		<text>APS</text>
+	</string>
+        <string id="enc_weapons1_wpn-aps">
+		<text>A Stechkin machine pistol. It has an effective range of 100 meters, and it has a magazine capacity of twenty rounds.\n \n Ammunition:\n standard 9x18mm,\n improved 9x18mm +P+,\n armor-piercing 9x18mm PBP.</text>
+        </string>
+
+	<string id="new_vgm-93">
+		<text>VGM-93 grenade</text>
+	</string>
+
+	<string id="new_aks-74">
+		<text>AIMS-74</text>
+	</string>
+
+	<string id="new_gsh-18">
+		<text>GSH-18</text>
+	</string>
+
+        <string id="enc_weapons1_wpn-ghsa">
+		<text>The GSH-18 pistol was designed in the late 1990s by the Tula Instrument Design Bureau. The first part of the weapon's name nomenclature comes from the first letters of the names of its designers: Gryazev Vasily Petrovich and Shipunov Arkady Georgievich. The second part of the weapon's name nomenclature, "18", signifies its magazine capacity.\n \n Ammunition:\n standard 9x19mm FMJ,\n improved 9x19mm PB1s.</text>
+	</string>
+
+	<string id="new_rpk-74">
+		<text>RPK-74</text>
+	</string>
+
+	<string id="new_vsk-94">
+		<text>VSK-94</text>
+	</string>
+
+	<string id="new_gm-94">
+		<text>GM-94</text>
+	</string>
+
+	<string id="grena_gm94">
+    		<text>Thermobaric grenade, 43mm caliber. The VGM-93 is for the GM-94 grenade launcher.</text>
+   	</string>
+
+
+   	<string id="wp_grr94">
+    		<text>The GM-94 grenade launcher was developed in the Tula Instrument Design Bureau in the early 1990s. The main purpose of the GM-94 is to provide fire support to infantry in close combat, especially in the city, as well as police special operations. Several grenades were developed specifically for the GM-94, including high-explosive grenades, tear gas grenades, and rubber slugs.\n \n Ammunition:\n VGM-93 grenade.</text>
+			</string>
+
+
+       <string id="enc_weapons1_grenade-zara">
+		<text>The Zarya-2 is a flashbang grenade. When it detonates, it blinds and deafens those in its effective range. It's normally used for hostage rescue operations so that any important VIPs can be recovered without the associated risk of shootouts.</text>
+	</string>
+
+        <string id="grenade-zara">
+		<text>Zarya-2</text>
+	</string>
+
+        <string id="grav_shot_wpn_desc_ammo_posi">
+		<text>Box with bolts</text>
+	</string>
+
+        <string id="grav_shot_wpn_desc_ammo_short">
+		<text>5x25mm bolts</text>
+	</string>
+
+        <string id="grav_shot_wpn_desc_ammo">
+		<text>A box filled with 5x25mm bolts. Useful for a variety of applications.</text>
+	</string>
+
+        <string id="grav_shot_wpn">
+		<text>Gravity-powered shotgun</text>
+	</string>
+
+        <string id="grav_shot_wpn_short">
+		<text>Gravity-powered shotgun</text>
+	</string>
+
+        <string id="grav_shot_wpn_descr">
+		<text>Created by intelligent dwarves, this is an abnormal weapon that uses the energy of gravitational artifacts to project objects at extremely high velocities. It can be loaded with a variety of items that don't exceed certain physical dimensions.\n \n Ammunition:\n 5x25mm bolts.</text>
+	</string>
+
+	<string id="wpn-striker">
+		<text>Protecta</text>
+	</string>
+
+	<string id="enc_weapons1_wpn-striker">
+		<text>A semi-automatic shotgun of South African origin, originally designed for hunting big game in the African safari. It is compact and convenient, but it does have the major flaw of spewing hot gas in the user's face whenever the weapon fires. Regardless, it has found its way into the hands of firearm enthusiasts in the Zone.\n \n Ammunition:\n 12x70 shot,\n 12x76mm slug,\n 12x76mm dart.</text>
+	</string>
+
+	<string id="wpn-bizon">
+		<text>Bizon</text>
+	</string>
+
+	<string id="enc_weapons1_wpn-bizon">
+		<text>The PP-19 "Bizon" SMG was  developed in 1993. This weapon is based on an upgraded mechanism of the AK. A distinctive feature of this SMG is a helical magazine with a capacity of up to 64 rounds.\n \n Ammunition:\n standard 9x18mm,\n improved 9x18mm +P+,\n armor-piercing 9x18mm PBP.</text>
+	</string>
+
+	<string id="wpn-m_134">
+		<text>M134</text>
+	</string>
+
+	<string id="enc_weapons1_wpn-m_134">
+		<text>A very expensive chaingun, modified to be more light and portable. Very few things can stand in the way of the M134 when it fires.\n \n Ammunition:\n standard 5.56x45mm SS109,\n armor-piercing 5.56x45mm AP.</text>
+	</string>
+	<string id="wpn-art_name">
+		<text>Gravitational artifact</text>
+	</string>
+	<string id="enc_weapons1_wpn-art">
+		<text>A gravitational artifact that has been modified so that it can be used by someone with ease. The forces that power this weapon is the same force that the gravitational shotgun uses.</text>
+	</string>
+</string_table>

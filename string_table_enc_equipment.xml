@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="Equipment/Food">
+		<text>Equipment/Food</text>
+	</string>
+
+	<string id="Equipment/Medi">
+		<text>Equipment/Medicine</text>
+	</string>
+
+	<string id="Equipment/Devic">
+		<text>Equipment/Devices</text>
+	</string>
+
+	<string id="Antirad">
+		<text>Antiradiation drugs</text>
+	</string>
+	<string id="Arm-heavy">
+		<text>Heavy stalker gear</text>
+	</string>
+	<string id="Arm-light">
+		<text>Light stalker gear</text>
+	</string>
+	<string id="Arm-medium">
+		<text>Medium stalker gear</text>
+	</string>
+	<string id="bandage">
+		<text>Bandages</text>
+	</string>
+	<string id="Binocul">
+		<text>Binoculars</text>
+	</string>
+	<string id="Bread">
+		<text>Bread</text>
+	</string>
+	<string id="cit_killers_documents_desc">
+		<text>File with documents.</text>
+	</string>
+	<string id="cit_killers_documents_name">
+		<text>Mercenary documents</text>
+	</string>
+	<string id="cit_deadcity_maps_desc">
+		<text>A detailed map of Shining Path. It includes merc and bandit positions, along with marked places showing where mutants and anomalous zones are.</text>
+	</string>
+	<string id="cit_deadcity_maps_name">
+		<text>Map of Shining Path</text>
+	</string>
+	<string id="cit_doctors_key_desc">
+		<text>Doctor's key to a secret stash in Pripyat.</text>
+	</string>
+	<string id="cit_doctors_key_short_desc">
+		<text>Doctor's key</text>
+	</string>
+	<string id="Conserva">
+		<text>Tourist's Delight</text>
+	</string>
+	<string id="Detect1">
+		<text>Anomaly detector (DA-2)</text>
+	</string>
+	<string id="Devic">
+		<text>Instruments and devices</text>
+	</string>
+	<string id="device-PDA">
+		<text>PDA</text>
+	</string>
+	<string id="device-torch">
+		<text>Flashlight</text>
+	</string>
+	<string id="enc_equipment_armors_arm-heavy">
+		<text>Protective suit. Weight: 18kg. Details: Protects the body from Jelly, Burnt Fuzz, most anomalies and physical damage. The torso and back are protected by built-in bio-metallic plates. The suit is equipped with an airtight, reinforced plastic helmet and two oxygen bottles. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
+	</string>
+	<string id="enc_equipment_armors_arm-light">
+		<text>Protective suit. Weight: 8 kg. Details: Protects the body from weak anomalies and physical damage. Equipped with an oxygen mask. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
+	</string>
+	<string id="enc_equipment_armors_arm-medium">
+		<text>Protective suit. Weight: 12 kg. Details: Protects the user from Jelly, Burnt Fuzz, many anomalies and physical damage. Equipped with an airtight helmet and an oxygen bottle. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
+	</string>
+	<string id="enc_equipment_armors_sci2">
+		<text>A red S.C.A.P.E suit with an airtight helmet. Weight: 11kg. Description: Protects the body from fire, acid, toxic gas, various anomalies, Burnt Fuzz and physical damage. Equipped with two oxygen bottles. Note: During extended periods of use the suit tears through and gradually deteriorates beyond use.</text>
+	</string>
+	<string id="enc_equipment_devic_binocul1">
+		<text>Military field binoculars.</text>
+	</string>
+	<string id="enc_equipment_devic_detect1">
+		<text>A device for detecting anomaly fields and disturbances. Notifies of their presence with a sound. Needs to be attached to the belt and turned on to operate correctly.</text>
+	</string>
+	<string id="enc_equipment_devic_detect2">
+		<text>DA-2 anomaly detector. \nThe DA-2 is a simple detector - when anomalies are nearby, it starts generating high pitched tones. The closer the user is to the anomaly, the louder the tones will be. It will also warn the user with a flashing red light. Needs to be attached to the belt and turned on to operate correctly. \nThe DA-2 doesn't detect all anomalies and typically only responds to strong, concentrated anomalous formations - artifacts. \nDetection radius: 10 meters.</text>
+	</string>
+	<string id="enc_equipment_devic_detect3">
+		<text>UDA-14a universal anomaly detector. \nThe UDA-14a is a much more advanced anomaly detector. It displays anomalies on its built-in screen, and it gives information on their intensity, size and height. Needs to be attached to the belt and turned on to operate correctly. \nDetection radius: 15 meters.</text>
+	</string>
+	<string id="enc_equipment_devic_device-PDA1">
+		<text>Personal digital assistant - indispensable in the Zone.</text>
+	</string>
+	<string id="enc_equipment_devic_device-torch1">
+		<text>A powerful flashlight. Quite useful in areas with insufficient lighting.</text>
+	</string>
+	<string id="enc_equipment_devic_device-torch1_m1">
+		<text>A powerful flashlight. Battery recharge time has been reduced thanks to a modernized transformer.</text>
+	</string>
+	<string id="enc_equipment_energydrink">
+		<text>An opioid-based medication used to treat pain, used by many stalkers in the Zone as a quick fix. However, it can be habit-forming, and taking it with alcohol can have adverse effects.</text>
+	</string>
+	<string id="enc_equipment_food_bread1">
+		<text>Hard to say who manages to bake these loaves in the Zone, but the bread isn't contaminated and is perfectly edible. Well, at least none of the stalkers have complained about it.</text>
+	</string>
+	<string id="enc_equipment_food_conserva1">
+		<text>Canned food from an army warehouse raided by stalkers. The best-before period hasn't expired yet.</text>
+	</string>
+	<string id="enc_equipment_food_kolbasa1">
+		<text>Made from a mix of chicken and soya, the "diet" sausage is often, for lack of other options, a stalker's breakfast, lunch and dinner in one.</text>
+	</string>
+	<string id="enc_equipment_food_vodka1">
+		<text>Vodka made by the GSC company. Goes down easily and significantly reduces the effects of radiation, but for obvious reasons should be enjoyed in moderation.</text>
+	</string>
+	<string id="enc_equipment_medi_antirad1">
+		<text>Reduces the effects of radiation.</text>
+	</string>
+	<string id="enc_equipment_medi_bandage1">
+		<text>Bandages. Helps stop bleeding.</text>
+	</string>
+	<string id="enc_equipment_medi_medkit1">
+		<text>An all-purpose medkit. Used to treat injuries of various types and severities - wounds, burns, poisonings, etc.</text>
+	</string>
+	<string id="enc_equipment_medi_medkit2">
+		<text>A specialized medical set to fight against physical damage and blood loss. In it is included a component for blood coagulation, antibiotics, immunal stimulators, and painkillers.</text>
+	</string>
+	<string id="enc_equipment_medi_medkit3">
+		<text>Medical set, designed especially for work in the Zone. The set includes means of healing wounds as well as means of eliminating radionucleodes from the body. Prevents the development of radiowave sickness and lowers the dose of accumulated radiation.</text>
+	</string>
+	<string id="energy_drink_name">
+		<text>Vicodin</text>
+	</string>
+	<string id="energy_drink_short_name">
+		<text>Vicodin</text>
+	</string>
+	<string id="Equipment">
+		<text>Gear and food</text>
+	</string>
+	<string id="Food">
+		<text>Food</text>
+	</string>
+	<string id="Kolbasa">
+		<text>Diet sausage</text>
+	</string>
+	<string id="Medi">
+		<text>Medicaments</text>
+	</string>
+
+	<string id="Medkit">
+		<text>Diagnostic medkit with injector (HEALTH-13)</text>
+	</string>
+	<string id="Medkit_enc">
+		<text>Medkit (HEALTH-13)</text>
+	</string>
+
+	<string id="Medkit_army">
+		<text>Diagnostic medkit with injector (HEALTH-16)</text>
+	</string>
+	<string id="Medkit_army_enc">
+		<text>Medkit (HEALTH-16)</text>
+	</string>
+
+	<string id="Medkit_scientific">
+		<text>Diagnostic medkit with injector (HEALTH-18)</text>
+	</string>
+	<string id="Medkit_scientific_enc">
+		<text>Medkit (HEALTH-18)</text>
+	</string>
+
+	<string id="Sci2">
+		<text>Scientific EXP-4</text>
+	</string>
+	<string id="Vodka">
+		<text>Cossack's vodka</text>
+	</string>
+	<string id="st_detector">
+		<text>Anomaly detector</text>
+	</string>
+	<string id="st_detector2">
+		<text>DA-2 anomaly detector</text>
+	</string>
+	<string id="st_detector3">
+		<text>UDA-14a anomaly detector</text>
+	</string>
+	<string id="st_detector_descr">
+		<text>Intended for the detection of anomalous zones as well as hotbeds of radioactive pollution.</text>
+	</string>
+	<string id="st_grenade_gd5">
+		<text>Smoke grenade</text>
+	</string>
+	<string id="guitar">
+		<text>Guitar</text>
+	</string>
+	<string id="enc_equipment_item_guitar">
+		<text>Ordinary six-string guitar. Stalkers love to play various songs near campfires.</text>
+	</string>
+	<string id="harmonica">
+		<text>Harmonica</text>
+	</string>
+	<string id="enc_equipment_item_harmonica">
+		<text>An ordinary harmonica. The simplest musical instrument in the Zone.</text>
+	</string>
+	<string id="Dimanit">
+		<text>Dynamite</text>
+	</string>
+	<string id="enc_equipment_all_item_explosion">
+		<text>Explosive</text>
+	</string>
+	<string id="hand_radio">
+		<text>Radio</text>
+	</string>
+	<string id="sigaret_s">
+		<text>Cigarettes</text>
+	</string>
+	<string id="enc_sigaret">
+		<text>Prima cigarettes. Are issued since 1970.</text>
+	</string>
+</string_table>

@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="windows-1251" ?>     
+<string_table> 
+
+	<string id="st_pda">
+		<text>PDA</text>
+	</string>
+
+	<string id="ui_mm_zasvetka">
+		<text>Flare from lamps and fires</text>
+	</string>
+
+	<string id="ui_mm_saturate">
+		<text>Dynamic saturation</text>
+	</string>
+
+	<string id="ui_mm_gamma1">
+		<text>Standard</text>
+	</string>
+
+	<string id="ui_mm_gamma2">
+		<text>Build gamma</text>
+	</string>
+
+	<string id="car_task_moskv_tx">
+		<text>Purchased Moskvich</text>
+	</string>
+
+	<string id="car_task_lada_tx">
+		<text>Purchased Lada</text>
+	</string>
+
+	<string id="car_task_zapor_tx">
+		<text>Purchased Zaporozhets</text>
+	</string>
+
+	<string id="from_dc_to_swamp">
+		<text>To the Swamps</text>
+	</string>
+
+	<string id="zaebalsukableat">
+		<text>Hello. We have a little problem with a lost expedition in the Silent Hills... Their signal was lost near the Sin base... Could you go and check that area?</text>
+	</string>
+
+	<string id="vhem_delo_ska">
+		<text>Hello. What's the problem?</text>
+	</string>
+
+
+
+	<string id="def_trade_1_1">
+		<text>Wanna trade?</text>
+	</string>
+	
+	<string id="def_trade_1_2">
+		<text>Yes.</text>
+	</string>
+	
+	<string id="def_trade_1_3">
+		<text>No.</text>
+	</string>
+	
+	<string id="def_save_me_1_1">
+		<text>I need help!</text>
+	</string>
+	
+	<string id="def_save_me_1_2">
+		<text>Yes.</text>
+	</string>
+	
+	<string id="def_save_me_1_3">
+		<text>No.</text>
+	</string>
+	
+	<string id="def_out_you_1_1">
+		<text>Get out of here.</text>
+	</string>
+	
+	<string id="def_out_you_1_2">
+		<text>Yes.</text>
+	</string>
+	
+	<string id="def_out_you_1_3">
+		<text>No.</text>
+	</string>
+	
+	<string id="def_by_1_1">
+		<text>Bye!</text>
+	</string>
+	
+
+
+
+        <string id="zone_artifact_dezin_desc">
+		<text>To transmutate, these artifacts are necessary: Sharp Needles and Double Shell.</text>
+	</string>
+
+
+        <string id="name_zone_artifact_dezin">
+		<text>Disintegrator</text>
+	</string>
+
+
+        <string id="zone_artifact_af_electra_moonlight_glassbeads_spring_desc">
+		<text>To transmutate, these artifacts are necessary: Mercury and Burnt Wool.</text>
+	</string>
+
+
+
+        <string id="name_zone_artifact_af_electra_moonlight">
+		<text>Electric sphere</text>
+	</string>
+
+
+
+        <string id="zone_artifact_af_dummy_glassbeads_spring_desc">
+		<text>To transmutate, these artifacts are necessary: Radioactive Bolt and Rusty Hair.</text>
+	</string>
+
+
+
+        <string id="name_zone_artifact_af_dummy_glassbeads">
+		<text>Death's Head</text>
+	</string>
+
+
+
+        <string id="zone_artifact_af_dummy_spring_desc">
+		<text>To transmutate, these artifacts are necessary: Toad Eye and Transparent Ball.</text>
+	</string>
+
+
+        <string id="name_zone_artifact_af_dummy_spring">
+		<text>Wisp</text>
+	</string>
+
+
+
+        <string id="name_zone_artifact_af_soul">
+		<text>Black Drops</text>
+	</string>
+
+
+
+        <string id="zone_artifact_af_soul_desc">
+		<text>To transmutate, these artifacts are necessary: Bagle and Itch.</text>
+	</string>
+
+
+
+        <string id="recip_0">
+		<text>I have an artifact transmuter. I'm interested in recipes for it.</text>
+	</string>
+
+
+
+        <string id="recip_1">
+		<text>Okay. I can sell you recipes for transmutation. Each will cost you 1000 rubles. The recipes will get uploaded to your PDA.</text>
+	</string>
+
+
+
+        <string id="Recepies_olr">
+		<text>Transmutation recipes</text>
+	</string>
+
+
+        <string id="name_rec_ribk">
+		<text>Stronger Gravitational Artifact</text>
+	</string>
+
+
+        <string id="recept_ribka">
+		<text>To transmutate, these artifacts are necessary: Weak Gravitational and Gravitational.</text>
+	</string>
+
+
+
+        <string id="atifact_merger_desc">
+		<text>An experimental device used for artifact transmutation. Scientists from the Yantar lab have developed this device in order to make the transmutation of certain artifacts possible, provided the user has the recipes and artifacts to do so.</text>
+	</string>
+
+
+
+        <string id="kanistra_benz_desc">
+		<text>A can of gasoline used to fuel vehicles. It contains 15 liters of gas.</text>
+	</string>
+
+        <string id="kanistra_benz_name">
+		<text>Gas can</text>
+	</string>
+
+        <string id="kanistra_empty_desc">
+		<text>Empty gas can equipped with a rubber hose for fuel dump - the most important tools of any driver.a rubber hose for fuel dump - the most important tools of any driver.</text>
+	</string>
+        <string id="kanistra_empty_name">
+		<text>Empty gas can</text>
+	</string>
+
+        <string id="car_toolkit_desc">
+		<text>A set of wrenches and spare parts for car repairs. Allows to eliminate some malfunctions directly on the way, but you should not expect much from it. It's heavy, motherfather.</text>
+	</string>
+        <string id="car_toolkit_name">
+		<text>Tools</text>
+	</string>
+
+
+        <string id="mil_uchenis_za_nami">
+		<text>Scientist hostages: Someone's here! Has he come for us? Hey! Stalker! Did the Professor send you?!</text>
+	</string>
+
+
+
+
+        <string id="doki_dla_ch_opis">
+		<text>A pile of papers. There's a note addressed to the leader of Clear Sky. It reads: "The Zone was created in a furious upheaval, and its radius spread around in all directions. It expanded at a furious rate, increasing the size of affected land. Cities that were hit by blowouts died out, and the territory of the Zone grew, expanding in all directions whenever blowouts happen. Across the Earth, people look with horror at the blackened sky, and photos taken from orbit shows a monstrous black blot that is growing, appearing as a black, cancerous tumor that is poisoning our home, Earth. When everything was quiet after everyone had either moved away or perished, the Zone was comprised of more than 100 square kilometers. Land, vegetation, and buildings were covered with black dust. Tons of radioactive dust was carried by the air, which caused many ecological crisis'.”</text>
+	</string>
+
+        <string id="doki_dla_ch_name">
+		<text>Pile of unknown documents</text>
+	</string>
+
+
+
+        <string id="femalehidden">
+		<text>Zx34-ioAndr</text>
+	</string>
+
+
+        <string id="qulon_name_desc">
+		<text>A silver pendant. The elder of the dwarves gave it as a reward for your help.</text>
+	</string>
+
+
+
+        <string id="qulon_name">
+		<text>Silver pendant</text>
+	</string>
+
+
+        <string id="dnevnik_strelka_name">
+		<text>Arrow's diary</text>
+	</string>
+
+
+        <string id="dnevnik_strelka_opis">
+		<text>The journal of the legendary stalker known as Strelok. Judging by the appearance of the journal and the notes inside, its owner has kept it for a very long time. There are entries of attempts to break into the center of the Zone, as well as some schemes, maps, and notes.
+Campaign entries to the center of the Zone:
+Entry #1 
+So, road's explored, plan's ready, supplies are collected, guns are shined. Thanks to the Doctor, we have some more medicine and food. We've been having bad luck with finding it lately. I hope none of this is in vain and that we'll find a clue to what's happening there. They say a man feels both curiosity and fear at the same time to that which he does not know. But I feel something else, a third element, something like... a call.</text>
+	</string>
+
+
+
+
+
+        <string id="jabin_holodilnik_desc">
+		<text>A container of medicine for the Doctor. It's quite heavy.</text>
+	</string>
+
+
+
+
+        <string id="jabin_holodilnik_name">
+		<text>Container for Doctor</text>
+	</string>
+
+
+
+
+        <string id="na_bolotah_toze_izluchenie">
+		<text>Messer, this is the Professor. I'm going to warn you about something: various parts of the swamp have been affected by psy-emissions. Our workers conducted tests here a long time ago. We don't know what happened to them, but you'll be able to disable the devices that are creating the psy-emissions. Some of our staff members conducted research in one of the houses here...</text>
+	</string>
+
+
+
+
+        <string id="rostok_hm_kodovaya_dver">
+		<text>Hmm... What's the code to the door?</text>
+	</string>
+
+
+
+
+
+
+        <string id="rostok_znakomoe_mesto">
+		<text>Hmm, this place seems familiar...</text>
+	</string>
+
+
+        <string id="st_boloto_sos_greh_lider">
+		<text>Message - Sin Leader: Well, here he is. He didn't manage to get far. Finish him off, stalker. He's not a tenant here anymore.</text>
+	</string>
+
+
+        <string id="st_boloto_sos">
+		<text>SOS signal: Somebody help! I'm in a hut in the swamp...</text>
+	</string>
+
+
+
+
+        <string id="zenado_0">
+		<text>Hello...</text>
+	</string>
+
+        <string id="zenado_1">
+		<text>What do you want?! Get the fuck out!</text>
+	</string>
+
+
+
+
+        <string id="olr_zablikov_doki_name">
+		<text>Order No. 3467</text>
+	</string>
+
+
+        <string id="olr_zablikov_doki_opis">
+		<text>Head administration of the Rostok factory, Nikolayeva O.D.
+Order.
+Employee of the product delivery department, Zyablikov I.I., with regard to production needs, has been transferred from the product delivery department to research laboratory #6
+Date: February 10, 2005
+Ministry of Labor of Ukraine
+Signature: Nikolayev O.D.
+</text>
+	</string>
+
+        <string id="looks_like_arhiv_rostok">
+		<text>Hmm, this looks like the personnel management department of the plant, or some sort of archive...</text>
+	</string>
+
+        <string id="enc_equipment_devic_device_pda_jan_one">
+		<text>Secret
+To head of project “Psy-Barrier” Prof. V.M. Chubko. From head of laboratory X16, Candidate of Technical Sciences P.S. Prikhodko
+“Report on tests on unit ZX-16 in extreme conditions.”
+The tests were done twice, both in a forced barrier overheat scenario. The ZX-16 unit was turned on in regular operational mode: psy-field - "External protection". The trials revealed the appearance of uncontrolled psy-emitter waves and an induction field after 5-6 minutes of work. The strenght of the psy-field was 50-60 percent higher than usual. That's a whooping 170-190 psiA in absolute value. The results do not line up with Kasayev's theory about inductioned psy-fields, because during the overheating process the value lowered. Some workers assume that the rise of temperature of the unit because of overheating leads to the intensification of the neuro activity of the YA-1M pseudobrain, after which the brain becomes some sort of a retranslator of the psy-emitter, and not only just a source of psy-waves. In order to confirm this we need to do additional experiments, for which we lack funding. There are also employees who openly admit that something is wrong with their heads and they don't understand anything. That really is a problem: we sadly will have to say goodbye to some of our employees. Biomaterials that were subject to psy-field testing have sadly become unusuable as of late because of irreversible changes to the brain and the nervous system. Results of tomography and encephalography are attached to certain report cards. Looking over the unplanned and unpredicted results of the experiment with unit ZX-16, it is safe to say that they are very interesting because they show that using the psy-emitter along with the YA-1M pseudobrain can ultimately give more certain results of the psy-barrier project when compared to our rivals at lab X-19.
+12.12.2007 P.S Prikhodko.
+P.S.: In order to continue the experiments, we need a new batch of biomaterials. We need 10 animal units and 10 human units from grouping 1296-bis. In addition, I request, if possible, some additional security forces, because keeping test subjects at bay is becoming a bit problematic. After the last experiment, a few of the subjects managed to escape. Some were neutralized during the chase. The rest went into a highly irradiated area that we couldn't enter, so we had to end the chase there.
+
+To head of laboratory X16, P.S. Prikhodko
+Mr. Stepanovich, from the way I see it, after the experiments not only some of your employees lost their minds, but you did too. Experimenter, fucking hell! Who gave you the permission to do these tests?! Didn't your grandfather work at the 4th block of the CNPP in 1986 by accident? And although in '86 the personnel came under the influence of the "Russian Woodpecker" (at least in this case there is at least a reason for that dumb experiment), I can't find any excuse for your actions! In the instructions it is clearly written: "under any circumstances do NOT crank up the power of the psy-radiation above 120 psiA." Did you forget about this? God damnit! As a result you've lost control of the test subjects and most importantly you've let them escape. Do you know how hard it is for me to obtain new bio material samples? Do you even begin to realise what would happen if the public discovered what we were doing down here? I hope you do. That's why I ask you to not do these kinds of experiments in the future without my permission. I understand the desire of a young scientist to be better than his rivals, but you can't lose your head! And about rivals... Yesterday X-19 managed to keep their psy-emitters stable while running them with only TWO breaks to cool them off in 24h - from 0830 to 0945 and from 2012 to 2100. That's why, when compared to your method (5 minutes of work - 3 minutes of cooling), X-19 turns out better. The psy-barrier should be able to work stably, without errors and without timed breaks. I do not want to anger you, I also think that your "psy-brain - psi emitter" method is more modern, progressive, intelligent and has a better future ahead of itself. There is only one BUT. The psy-barrier is needed right away, so for now we will probably use X-19's variant of the psi machine, although it does somewhat work like a bit like a hammer - bam, and there is no brains in the local area. But, as they say, "no fuss, no muss." It is cheap and effective (I am joking, of course). Make sure to tell wish the entire staff a Merry Christmas and Happy New Year from me.  
+Prof. V.M. Chubko 20.12.2007
+P.S. When it comes to the new batch of test subjects, I will meet with my supplier soon.</text>
+	</string>
+
+
+
+     <string id="enc_equipment_devic_device_pda_jan_two">
+		<text>Orders on laboratory X16.
+In light of the catastrophic processes that began on April 12 this year in the center of the Zone of Alienation around the Chernobyl NPP, I hereby issue these orders: 1.	the laboratory staff shall make copies of laboratory work reports and gather 4 sets of documentation. Destroy the original documents marked as "secret." 2.	the security shall eliminate all biomaterials. 3.	a temporary shutdown of the laboratory shall be carried out. 4.	the experimental program "Cover of Darkness" shall be prepared for loading into the "YA-1M" pseudo-brain and also activate all external tracking sensors. 5.	wind generators and backup power sources shall be activated. The laboratory should be switched to power saving mode. 6.	all staff shall make their way to the head labroatory in region Z17-45 in groups of 3 persons. Each group will carry one set of documentation. Each group shall be accompanied by one guard. All personnel will wear hazmat suits. 7.	Good luck to everyone.
+Head of laboratory X16
+Candidate of Technical Sciences P.S. Prikhodko</text>
+	</string>
+
+
+
+        <string id="enc_equipment_devic_device_pda_jan_tri">
+		<text>Suicide note
+I, Pavel Stepanovich Prikhodko, head of laboratory X16, born in 1976, being of sound mind, voluntarily leave life today on April 26, 2008. And now I just want to explain the reasons. I hope someone finds this note and passes it on to my family and colleagues, to whom I remained faithful to the end. Two weeks ago, I wrote an order regarding laboratory X16's shutdown. After the events on April 12, thge laboratory was no longer able to function normally. Communication with the central HQ was lost. After making copies of documents on the laboratory work results, I sent four of my employess into the main laboratory. I trust that one of them will come, and the invaluable results of our work will not be in vain. And they will benefit our GREAT cause. Furthermore, left alone, I've loaded the program "Cover of Darkness," developed by us, into our brainchild, the "YA-1M" pseudo-brain, which was supposed to make our ZX-16 psy-protection kit render the entire facility invisible to any creature within 200 metres in addition to deterring them from getting too close. So, I shall be brief: I do not know why, but this program did not work. When I tried to leave the psy-protected room with the "brain," I received a shattering psy-order to defend the object and kill all uninvited guests. When I woke up, I found myself in the same spot again. I don't remember how I returned. For the past two weeks, which I've spent in this room - I have asked myself one question a thousand times: "How could I mess up so bad that I accidentaly entered the wrong program, the one that was still in development?". The answer frightens me: perhaps the most fantastical hypothesis from my colleagues about the possibility of the YA-1M developing self-learning was true. If so, then that monster is probably slyly grinning next to me right now. I tried to break its corpus, but to no avail. My PM can do nothing against this bulletproof glass, and all automatic weapons were taken by the guards. Disabling the complex now can only be done using the backup control panel. I have gotten myself straight into a trap. Water and food ran out a week ago. If I leave the room, the psy-emissions will destroy me as a person, and my last living days will be spent as a vegetable. I don't want to end up like that. Therefore, I have left the last bullet in my pistol for myself.
+Good luck to everyone... Don't think ill of me. Pavel.
+April 16, 2008. 13-40</text>
+	</string>
+
+
+
+        <string id="enc_equipment_pribor_zamery_zameryany">
+		<text>A device that records activity from anomaly fields.</text>
+	</string>
+
+
+        <string id="pribor_zamery">
+		<text>Anomaly recording device</text>
+	</string>
+
+
+
+        <string id="enc_equipment_pribor_zamery">
+		<text>A device that records and measures activity from anomalous fields. In order for it to work, you need to approach an anomaly field and activate the device.</text>
+	</string>
+
+
+        <string id="dead_crow_food">
+		<text>Dead crow</text>
+	</string>
+
+        <string id="enc_crow_food">
+		<text>A carcass of a crow. It's edible, but quite radioactive.</text>
+	</string>
+
+
+        <string id="deads">
+		<text>Corpse</text>
+	</string>
+
+
+        <string id="laba_opis">
+		<text>Documents from an abandoned laboratory. They mention experiments conducted in a complex that are related to "burers". There's also a monthly reports of work from research departments, lists of all scientists, project budgets, and instructions for carrying out standard procedures. There's also details related to a transfer of experimental projects to another complex. Judging by the coordinates, the project transfer was taken to somewhere at Yantar.</text>
+	</string>
+
+
+        <string id="osveschenie_doma">
+		<text>A digital device used to control lights. Control codes: 1 - on, 2 - off.</text>
+	</string>
+
+
+        <string id="tip_pnut_door">
+		<text>This seems to be blocked. You can try to knock it down.</text>
+	</string>
+
+
+        <string id="det_art_super">
+		<text>"SUPER" Artifact Detector</text>
+	</string>
+	<string id="det_art_super_info">
+		<text>A "SUPER" artifact detector. This detector is the latest result of technological development from scientists in the Zone. Thanks to nanotechnology, the sensitivity of the detector is increased to 1.5 kilometers. The presence of artifacts is indicated by markers on the map, and this device can also tell the user what type of artifacts they are. This is the best artifact detector that money can buy in the Zone.</text>
+	</string>
+	<string id="det_art_pro">
+		<text>"PRO" Artifact Detector</text>
+	</string>
+	<string id="det_art_pro_info">
+		<text>A "PRO" artifact detector. This is an improved version of the "INDY" artifact detector - various improvements have been applied to it by Zone scientists. Its main improvement is a digital map readout that provides the user with locations of artifacts within its detection range. Its detection range has also been increased to 70 meters. Due to its acceptable price and performance, this is one of the more commonly used detectors.</text>
+	</string>
+	<string id="det_art_indy">
+		<text>"INDY" Artifact Detector</text>
+	</string>
+	<string id="det_art_indy_info">
+		<text>An "INDY" artifact detector. This is the first artifact detector, developed and built by local craftsmen. Compared to other detectors, it is ineffective, since its detection radius only covers 40 meters, and its only method of notifying the user is a beep that increases in pitch and speed when the user gets closer to the artifact. However, thanks to this device, more than a thousand artifacts have been found and sold by stalkers.</text>
+	</string>
+	<string id="st_death_msg_0">
+		<text>Stalker has died.</text>
+	</string>
+	<string id="st_dead_comm">
+		<text>Faction:</text>
+	</string>
+	<string id="st_death_loc">
+		<text>Location:</text>
+	</string>
+	<string id="st_death_msg">
+		<text>Name:</text>
+	</string>
+
+<string id="lelnl_spam_sms">
+	<text>Hey, dude! Come here. Got something for you...</text>
+</string>
+
+
+
+
+<string id="enc_device_torch_bad">
+	<text>Non-working flashlight. The batteries inside are empty.</text>
+</string>
+
+<string id="device_torch_bad">
+	<text>Non-functional flashlight</text>
+</string>
+
+
+
+<string id="off_ust">
+	<text>Turn off the psy-device.</text>
+</string>
+
+<string id="off_cheno">
+	<text>The psy-device has been turned off.</text>
+</string>
+
+<string id="enc_equipment_devic_device-pda2_ucheny">
+	<text>The data on this PDA is corrupted, but the last entry is still readable: Damn, my leg seems to be broken. Just what I need.. apparently, the device creating the psy-blockade is in the basement. Going down there will be impossible, but if I find the psionic control console, I can disable it. I think the door code for room that has that console is 8620 - Professor told me that before I left his bunker.</text>
+</string>
+
+
+<string id="enc_equipment_devic_device-pda1_ucheny">
+	<text>The main data is encrypted, although there is information about the laboratory. A group of scientists from Lake Yantar moved out to search for equipment. Personal record: as we know, the staff has left the laboratory disorganized and chaotic. A lot of interesting and useful research equipment, ranging from simple dosimeters and dynamometers to experimental weapon and equipment samples, has been left there. Surely, we'll find technical documentation, reports, perhaps personal journals from specialists. All that should at least slightly clear up what went on there. Who knows, maybe the information found there will help us make another scientific and technological revolution? We should search for the documents on the first and second floors of the complex and look for the equipment in the warehouses. A note from the Professor: Be extremely vigilant and cautious, since experimental samples number 1 and 2 as well as the Alpha sample "psionic" have disappeared. Perhaps they are still in the lab.</text>
+</string>
+
+
+
+<string id="art_box_special">
+	<text>(R2) Artifact Container</text>
+</string>
+<string id="art_box_special_s">
+	<text>(R2) Artifact Container</text>
+</string>
+ <string id="art_box_1special">
+	<text>(R1) Capsule</text>
+</string>
+<string id="art_box_1special_s">
+	<text>(R1) Capsule</text>
+</string>
+ <string id="art_box_8special">
+	<text>(R3) Artifact Container</text>
+</string>
+<string id="art_box_8special_s">
+	<text>(R3) Artifact Container</text>
+</string>
+<string id="enc_arc_art_box_basic">
+	<text>A medium-sized container for artifacts. Its been designed for transporting moderately dangerous artifacts easily. Despite its small size, it provides adequate protection against the radiation and potentially harmful anomalous effects from artifacts. It's made out of a special heavy-duty plastic that's coated on the outside with a layer of a protective metal alloy developed by scientists from the Yantar mobile lab. This container is in great demand among professional artifact collectors.</text>
+</string>
+<string id="enc_arc_art_box_8basic">
+	<text>A basic container for artifacts. Its been designed for transporting basic and non-dangerous artifacts easily. Despite its small size, it provides decent protection against low levels of radiation from artifacts. It's made out of a special heavy-duty plastic that's coated on the outside with a layer of a protective metal alloy developed by scientists from the Yantar mobile lab. This container is in great demand among professional artifact collectors.</text>
+</string>
+<string id="enc_arc_art_1box_basic">
+	<text>A specialized container for artifacts. Its been designed for transporting highly dangerous artifacts easily. Despite its small size, it provides excellent protection against more intensive radiation and harmful anomalous effects from higher-end artifacts. It's made out of a special heavy-duty plastic that's coated on the outside with a layer of a protective metal alloy developed by scientists from the Yantar mobile lab. The manufacturing process for this specific container is kept secret. This container is in great demand among professional artifact collectors.</text>
+</string>
+ <string id="enc_arc_art_box_basic_1">
+	<text>A special scientific container for artifacts. This container contains one artifact.</text>
+</string>
+ <string id="enc_arc_art_box_basic_2">
+	<text>A special scientific container for artifacts. This container contains two artifacts.</text>
+</string>
+ <string id="enc_arc_art_box_basic_3">
+	<text>A special scientific container for artifacts. This container contains three artifacts.</text>
+</string>
+ <string id="enc_arc_art_box_basic_4">
+	<text>A special scientific container for artifacts. This container contains four artifacts.</text>
+</string>
+ <string id="enc_arc_art_box_basic_5">
+	<text>A special scientific container for artifacts. This container contains five artifacts.</text>
+</string>
+ <string id="enc_arc_art_box_basic_6">
+	<text>A special scientific container for artifacts. This container contains six artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_7">
+	<text>A special scientific container for artifacts. This container contains seven artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_8">
+	<text>A special scientific container for artifacts. This container contains eight artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_9">
+	<text>A special scientific container for artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_10">
+	<text>A special scientific container for artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_11">
+	<text>A special scientific container for artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_12">
+	<text>A special scientific container for artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_13">
+	<text>A special scientific container for artifacts.</text>
+</string>
+<string id="enc_arc_art_box_basic_14">
+	<text>A special scientific container for artifacts.</text>
+</string>
+
+
+
+
+
+	<string id="dolg_base_marker">
+		<text>Duty base</text>
+	</string>  
+
+
+<string id="enc_dead_rat">
+		<text>A dead rat. Somewhat dirty, though still edible.</text>
+	</string>
+
+<string id="dead_rat">
+		<text>Dead rat</text>
+	</string>
+
+<string id="dead_rat_s">
+		<text>Dead rat</text>
+	</string>
+
+<string id="tre_ruck_s">
+		<text>Backpack</text>
+	</string>
+
+<string id="tre_ruck">
+		<text>Backpack</text>
+	</string>
+
+
+<string id="enc_tre_ruck">
+		<text>A backpack from a stalker suit. You can hide your stuff in this somewhere where no one will look.</text>
+	</string>
+
+<string id="container_spam_sms">
+		<text>Get out of here, stalker.</text>
+	</string>
+
+
+
+
+<string id="dolg_spam_sms_garbage">
+		<text>Stalker, this is the Duty outpost speaking. If you plan on going to the Bar, you may proceed.</text>
+	</string>
+
+<string id="enc_equipment_4r34devic_device-pda0">
+		<text>Take this. Enjoy your meal!</text>
+	</string>
+
+<string id="enc_equipment_4r34devic_device-pda1">
+		<text>Oh, you helped me out, stalker. You know, Journalist was kind too. He helped me. So, about him... This one time, when I was visiting him, he told me a story: he said there are some kind of installations by the station. They were the cause of that big emission that hit me back then. And he's searching the area for some documents. He said he wanted to find out what happened here in the Zone.</text>
+	</string>
+
+<string id="enc_eq234uipment_devic_device-pda1">
+		<text>You don't know anything else?</text>
+	</string>
+
+<string id="enc_equipment_devic_de444vice-pda1">
+		<text>No. That's all I remember about him. Oh, and take this key. There's a military Niva in the Freedom base. After they started firing volleys for fun, I stole this key from them. Those bastards will find out.</text>
+	</string>
+
+
+<string id="enc_equipment_devic_device-pda1">
+		<text>Small, personal hand-held computer for data storage.</text>
+	</string>
+
+
+<string id="mg_zobmie_hello">
+		<text>Hey, stalker, come here. I'm in the house on the hill.</text>
+	</string>
+
+<string id="mg_cat_hello">
+		<text>Pussycats, pussycats-pussycats-pussycats... He-ee-ll-ppp... I am in a lo-dge...</text>
+	</string>
+
+<string id="dolg_spam_sms">
+		<text>Stalker, you are in Duty territory. Don't make any trouble here.</text>
+	</string>
+
+<string id="jaba_hello_sms">
+		<text>Messer, I'm in the Silent Hills. Come to my bunker. Toad.</text>
+	</string>
+
+<string id="warfare">
+		<text>So.. we're thinking of doing a raid in the Silent Hills. These Sinners are clearly up to something, so we need to do a little recon. The village to the west of the hills will give us the cover we need. There's one problem: there's a controller there. It must be killed.</text>
+	</string>
+
+<string id="lvl16_generators_level_changer">
+		<text>To the lab</text>
+	</string>
+
+<string id="lvl14_stancia_level_changer_0001">
+		<text>To Generators</text>
+	</string>
+
+<string id="lvl14_stancia_level_changer_0001">
+		<text>To Generators</text>
+	</string>
+
+<string id="lvl14_stancia_level_changer_0000">
+		<text>Into the sarcophagus</text>
+	</string>
+
+<string id="lvl14_stancia_level_changer">
+		<text>To Pripyat</text>
+	</string>
+
+<string id="lvl13_prip_level_changer_0000">
+		<text>To Chernobyl NPP</text>
+	</string>
+
+<string id="lvl13_prip_level_changer">
+		<text>To the Radar</text>
+	</string>
+
+<string id="lvl11_deadcity_level_changer_0000">
+		<text>To the Swamps</text>
+	</string>
+
+<string id="lvl11_deadcity_level_changer">
+		<text>To Lake Yantar</text>
+	</string>
+
+<string id="lvl11_deadcity_level_changer_0001">
+		<text>To the Silent Hills</text>
+	</string>
+
+
+<string id="lvl10_radar_level_changer">
+		<text>To the Silent Hills</text>
+	</string>
+
+<string id="lvl10_radar_level_changer_0000">
+		<text>To the lab</text>
+	</string>
+
+<string id="lvl10_radar_level_changer_0001">
+		<text>To Pripyat</text>
+	</string>
+
+<string id="lvl9_military_level_changer">
+		<text>To the Radar</text>
+	</string>
+
+<string id="lvl9_military_level_changer_0000">
+		<text>To the town of Shining Path</text>
+	</string>
+
+<string id="lvl10_military_level_changer">
+		<text>To the Stalker bar</text>
+	</string>
+
+<string id="lvl8_swamp_level_changer">
+		<text>To Lake Yantar</text>
+	</string>
+
+<string id="lvl8_swamp_level_changer_0000">
+		<text>To the town of Shining Path</text>
+	</string>
+
+<string id="lvl7_yantar_level_changer_0002">
+		<text>To the town of Shining Path</text>
+	</string>
+
+<string id="lvl7_yantar_level_changer">
+		<text>To the Stalker bar</text>
+	</string>
+
+<string id="lvl7_yantar_level_changer_0000">
+		<text>To MedPribor Research Institute</text>
+	</string>
+
+<string id="lvl7_yantar_level_changer_0001">
+		<text>To the Swamps</text>
+	</string>
+
+<string id="lvl5_bar_level_changer_0001">
+		<text>To the Silent Hills</text>
+	</string>
+
+<string id="lvl5_bar_level_changer_0002">
+		<text>To the Rostok factory</text>
+	</string>
+
+<string id="lvl5_bar_level_changer">
+		<text>To the Rostok factory</text>
+	</string>
+
+<string id="lvl5_bar_level_changer_0000">
+		<text>To Lake Yantar</text>
+	</string>
+
+<string id="lvl6_rostok_level_changer">
+		<text>To the Stalker bar</text>
+	</string>
+
+
+
+
+<string id="lvl5bar_level_prefix_level_changer">
+		<text>To the Garbage</text>
+	</string>
+
+<string id="level_prefix_level_changer_glue">
+		<text>To Chernobyl NPP</text>
+	</string>
+
+<string id="lvl4_darkdolina_level_changer">
+		<text>To the lab</text>
+	</string>
+
+<string id="lvl4_darkdolina_level_changer_0001">
+		<text>To the Garbage</text>
+	</string>
+
+<string id="lvl4_darkdolina_level_changer_0000">
+		<text>To the Garbage</text>
+	</string>
+
+<string id="lvl3_agroprom_level_changer_0001">
+		<text>To Lake Yantar</text>
+	</string>
+
+
+<string id="lvl3_agroprom_level_changer">
+		<text>To the Garbage</text>
+	</string>
+
+<string id="lvl3_agroprom_level_changer_0000">
+		<text>To the Garbage</text>
+	</string>
+
+<string id="lvl2_garbage_level_changer_0001">
+		<text>To the Dark Valley</text>
+	</string>
+
+<string id="lvl2_garbage_level_changer_0004">
+		<text>To the Dark Valley</text>
+	</string>
+
+<string id="lvl2_garbage_level_changer_0003">
+		<text>To the Stalker bar</text>
+	</string>
+
+<string id="lvl2_garbage_level_changer_0000">
+		<text>To MedPribor Research Institute</text>
+	</string>
+
+<string id="lvl2_garbage_level_changer_0002">
+		<text>To MedPribor Research Institute</text>
+	</string>
+
+<string id="lvl2_garbage_level_changer">
+		<text>To the Cordon</text>
+	</string>
+
+<string id="lvl1_escape_level_changer">
+		<text>To the Garbage</text>
+	</string>
+
+<string id="esc_kv_atr_1">
+		<text>You need to pick up the box for Toad.</text>
+	</string>
+
+<string id="neutral">
+		<text>Stalker</text>
+	</string>
+
+<string id="caes_barman">
+		<text>Stalker, this is the Barkeep. I can't believe you've made it to the reactor. If you do decide to go inside in order to get to the Monolith, then listen. The entrance is behind the reactor at the north. You'll see some double gates when you get there. I hope you know what you're doing...</text>
+	</string>
+
+
+<string id="chaes_barman">
+		<text>Stalker, this is the Barkeep. I can't believe you've made it to the reactor. If you do decide to go inside in order to get to the Monolith, then listen. The entrance is behind the reactor at the north. You'll see some double gates when you get there. I hope you know what you're doing...</text>
+	</string>
+
+	<string id="barman_kogo_tam">
+		<text>Who the hell is there?</text>
+	</string>
+
+
+       <string id="final_olr_0">
+		<text>Hello, Strelok.</text>
+	</string>
+	<string id="final_olr_1">
+		<text>What?!</text>
+	</string>
+	<string id="final_olr_2">
+		<text>Shh, shh, it's over now.</text>
+	</string>
+	<string id="final_olr_3">
+		<text>What? Who are you?</text>
+	</string>
+	<string id="final_olr_5">
+		<text>I don't care who you are! Stay here while I go talk a walk around the Zone. I need to do some more errands.</text>
+	</string>
+
+	<string id="final_olr_6">
+		<text>Get off my back, man. I still need to get to the Monolith and plan things.</text>
+	</string>
+
+
+	<string id="sliznyaki">
+		<text>Black Slugs</text>
+	</string>
+
+	<string id="lastday">
+		<text>Last Day</text>
+	</string>
+
+	<string id="iskateli">
+		<text>Seekers</text>
+	</string>
+
+
+	<string id="sin">
+		<text>Sin</text>
+	</string>
+
+<string id="hui_pizda">
+		<text>You mean the scientist from Yantar? Yeah. He lived here. He disappeared under unclear circumstances. Our guys wanted to inspect this apartment, but the door's jammed. Basically, you could try climbing on the leads from the "Glory to the CPSU" building onto the balcony. Then, you just head through the window.</text>
+	</string>
+
+
+<string id="aaj_golova">
+		<text>Hey, stalker!</text>
+	</string>
+
+	<string id="gen_find_exit_lab_d_name">
+		<text>Find the entrance to the lab.</text>
+	</string>
+	<string id="gen_find_exit_lab_d_text">
+		<text>The main laboratory of the C-Consciousness is somewhere around the Generators. The entrance to the laboratory must be found.</text>
+	</string>
+
+	<string id="off_dyatel1">
+		<text>Deactivate installation Dyatel-1</text> 
+	</string>
+
+        <string id="off_dyatel_otkl">
+		<text>Installation Dyatel-1 has been deactivated</text> 
+	</string>
+
+        <string id="off_mg">
+		<text>Disable the psy-rig.</text>  
+	</string>
+
+        <string id="off_mg1">
+		<text>The psy-rig has been disabled.</text> 
+	</string>
+
+        <string id="off_yan">
+		<text>Disable the device.</text>  
+	</string>
+
+        <string id="off_yan1">
+		<text>The device has been disabled.</text> 
+	</string>
+
+        <string id="off_swamp_rubilnik">
+		<text>Disable the device.</text>  
+	</string>
+
+        <string id="off_swamp_rubilnik1">
+		<text>The device has been disabled.</text> 
+	</string>
+
+        <string id="yan_sah_spam">
+		<text>Messer! Indicators say that you are very close to the installation!</text> 
+	</string>
+
+
+        <string id="sin_hello_sms">
+		<text>Unknown stalker: This area is off limits to loner stalkers. But if you're here on business, stop by at our base.</text> 
+	</string>
+
+
+
+	<string id="actor">
+		<text>Loner</text>
+	</string>
+	<string id="actor_dolg">
+		<text>Duty</text>
+	</string>
+	<string id="actor_freedom">
+		<text>Freedom</text>
+	</string>
+	<string id="arena_enemy">
+		<text>Enemy</text>
+	</string>
+	<string id="bad">
+		<text>bad</text>
+	</string>
+	<string id="bandit">
+		<text>Bandit</text>
+	</string>
+	<string id="Bio">
+		<text>Biography</text>
+	</string>
+	<string id="dolg">
+		<text>Duty</text>
+	</string>
+	<string id="ecolog">
+		<text>Ecologist</text>
+	</string>
+	<string id="stranger">
+		<text>Stranger</text>
+	</string>
+	<string id="enemy">
+		<text>enemy</text>
+	</string>
+	<string id="excellent">
+		<text>excellent</text>
+	</string>
+	<string id="exo_outfit_name_m1">
+		<text>Exoskeleton PNB-4UZ</text>
+	</string>
+	<string id="experienced">
+		<text>Experienced</text>
+	</string>
+	<string id="Found_PDA">
+		<text>Found PDA</text>
+	</string>
+	<string id="freedom">
+		<text>Freedom</text>
+	</string>
+	<string id="friendly">
+		<text>friend</text>
+	</string>
+	<string id="good">
+		<text>good</text>
+	</string>
+	<string id="indifferent">
+		<text>neutral</text>
+	</string>
+	<string id="killer">
+		<text>Merc</text>
+	</string>
+	<string id="lvl1_escape">
+		<text>Cordon</text>
+	</string>
+	<string id="lvl2_garbage">
+		<text>Garbage</text>
+	</string>
+	<string id="lvl3_agroprom">
+		<text>MedPribor Research Institute</text>
+	</string>
+	<string id="lvl4_darkdolina">
+		<text>Dark Valley</text>
+	</string>
+	<string id="lvl5_bar">
+		<text>Stalker bar</text>
+	</string>
+	<string id="lvl6_rostok">
+		<text>"Rostok" factory</text>
+	</string>
+	<string id="lvl9_military">
+		<text>Silent Hills</text>
+	</string>
+	<string id="lvl7_yantar">
+		<text>Lake Yantar</text>
+	</string>
+	<string id="lvl11_deadcity">
+		<text>Shining Path</text>
+	</string>
+	<string id="lvl10_radar">
+		<text>Radar</text>
+	</string>
+	<string id="lvl12_radar_bunker">
+		<text>Secret lab</text>
+	</string>
+	<string id="lvl13_prip">
+		<text>Pripyat</text>
+	</string>
+	<string id="lvl14_stancia">
+		<text>Chernobyl NPP</text>
+	</string>
+	<string id="lvl8_swamp">
+		<text>Swamps</text>
+	</string>
+	<string id="lvl16_generators">
+		<text>Generators</text>
+	</string>
+	<string id="lvl17_warlab">
+		<text>Monolith War Lab</text>
+	</string>
+	<string id="master">
+		<text>expert</text>
+	</string>
+	<string id="military">
+		<text>Military</text>
+	</string>
+	<string id="monolith">
+		<text>Monolith</text>
+	</string>
+	<string id="neutral">
+		<text>neutral</text>
+	</string>
+	<string id="deadbody">
+		<text>body</text>
+	</string>
+	<string id="novice">
+		<text>Rookie</text>
+	</string>
+	<string id="st_no_active_task">
+		<text>No active task</text>
+	</string>
+	<string id="st_time_till_surge">
+		<text>Blowout timer</text>
+	</string>
+	<string id="stalker">
+		<text>Loner</text>
+	</string>
+	<string id="terrible">
+		<text>terrible</text>
+	</string>
+	<string id="trader">
+		<text>Trader</text>
+	</string>
+	<string id="ui_st_community">
+		<text>group</text>
+	</string>
+	<string id="ui_st_price">
+		<text>Price</text>
+	</string>
+	<string id="ui_st_rank">
+		<text>rank</text>
+	</string>
+	<string id="ui_st_relation">
+		<text>attitude</text>
+	</string>
+	<string id="ui_st_reputation">
+		<text>reputation</text>
+	</string>
+	<string id="very_bad">
+		<text>Very bad</text>
+	</string>
+	<string id="very_good">
+		<text>very good</text>
+	</string>
+	<string id="veteran">
+		<text>veteran</text>
+	</string>
+	<string id="zombied">
+		<text>Zombified</text>
+	</string>
+	<string id="Btn_Cancel">
+		<text>Cancel</text>
+	</string>
+	<string id="Btn_No">
+		<text>No</text>
+	</string>
+	<string id="Btn_OK">
+		<text>OK</text>
+	</string>
+	<string id="Btn_Yes">
+		<text>Yes</text>
+	</string>
+	<string id="global_map">
+		<text>Map of the Zone</text>
+	</string>
+	<string id="st_autosave">
+		<text>Autosave</text>
+	</string>
+	<string id="st_game_over">
+		<text>Game over</text>
+	</string>
+	<string id="st_item_used">
+		<text>Used</text>
+	</string>
+	<string id="st_not_enough_money">
+		<text>Not enough money</text>
+	</string>
+	<string id="st_not_enough_money_npc">
+		<text>The NPC does not have enough money</text>
+	</string>
+	<string id="ui_st_opponent_items">
+		<text>Backpack</text>
+	</string>
+	<string id="st_search_treasure">
+		<text>Search ($$ACTION_USE$$)</text>
+	</string>
+	<string id="inventory_item_use">
+		<text>Pick up item ($$ACTION_USE$$)</text>
+	</string>
+	<string id="ui_mm_check_updates">
+		<text>Game updates</text>
+	</string>
+	<string id="ui_mm_alternative">
+		<text>Alternative</text>
+	</string>
+	<string id="ui_inv_health">
+		<text>Health</text>
+	</string>
+	<string id="ui_inv_radiation">
+		<text>Radiation</text>
+	</string>
+	<string id="ui_inv_satiety">
+		<text>Hunger</text>
+	</string>
+	<string id="ui_inv_power">
+		<text>Energy</text>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>Bleeding</text>
+	</string>
+	<string id="st_detail_list_for_foo">
+		<text>Detailed list of statistics.</text>
+	</string>
+	<string id="st_mp_say_to_all">
+		<text>To all</text>
+	</string>
+	<string id="st_mp_say_to_team">
+		<text>To team</text>
+	</string>
+	<string id="st_knife">
+		<text>Knife</text>
+	</string>
+	<string id="st_mp_disabled_voting">
+		<text>Voting is not available on this server.</text>
+	</string>
+	<string id="st_mp_no_current_voting">
+		<text>No active votings.</text>
+	</string>
+	<string id="st_mp_ready">
+		<text>ready</text>
+	</string>
+	<string id="st_mp_voting_succeed">
+		<text>Voting succeeded!</text>
+	</string>
+	<string id="st_mp_voting_failed">
+		<text>Voting failed!</text>
+	</string>
+	<string id="l03u_agr_underground">
+		<text>Agroprom Underground</text>
+	</string>
+	<string id="l04u_labx18">
+		<text>Lab X-18</text>
+	</string>
+	<string id="l08u_brainlab">
+		<text>Lab X-16</text>
+	</string>
+	<string id="l10u_bunker">
+		<text>Lab X-10</text>
+	</string>
+	<string id="l12u_sarcofag">
+		<text>Sarcophagus</text>
+	</string>
+	<string id="l12u_control_monolith">
+		<text>Monolith control</text>
+	</string>
+	<string id="anomaly_zone">
+		<text>Anomalous zone</text>
+	</string>
+	<string id="radioactive_zone">
+		<text>Radioactive zone</text>
+	</string>
+        <string id="sky">
+		<text>Clear Sky</text>
+	</string>
+
+	<string id="aes_sergeant_diallog_0">
+		<text>Huh?.. Wh... Who?.. Huh...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1000">
+		<text>Who's here with us?</text>
+	</string>
+	<string id="aes_sergeant_diallog_1001">
+		<text>Help... Help me...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1002">
+		<text>Well... there... Yeah, soldier, you really got chopped up...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1003">
+		<text>Kill yourself!</text>
+	</string>
+	<string id="aes_sergeant_diallog_1004">
+		<text>Are you that... Monolith guy? I hea... rd... the colonel called you...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1005">
+		<text>If I were one of them, you wouldn't be speaking anymore... I'm Messer. Stalker. And you... Who the hell are you?</text>
+	</string>
+	<string id="aes_sergeant_diallog_1006">
+		<text>I'm... Sergeant... Vasil "the Unlucky"...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1007">
+		<text>Yeah. I can see that.</text>
+	</string>
+	<string id="aes_sergeant_diallog_1008">
+		<text>Who... Who else survived?</text>
+	</string>
+	<string id="aes_sergeant_diallog_1009">
+		<text>No one, it seems... Shit. I could use a doc. I don't suppose you'll share a medkit with me.</text>
+	</string>
+	<string id="aes_sergeant_diallog_1010">
+		<text>Seems like... it's time... to join my comrades...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1011">
+		<text>No need to rush. We'll all get there someday.</text>
+	</string>
+	<string id="aes_sergeant_diallog_1012">
+		<text>Well, I won't stop you!</text>
+	</string>
+	<string id="aes_sergeant_diallog_1013">
+		<text>Thanks, man... The colonel said... all of you are monsters... Nothing like real people... Hhh... Hhh... But you're all right...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1014">
+		<text>Well, there are enough monsters around here. Tell me, how did you get screwed up so badly?</text>
+	</string>
+	<string id="aes_sergeant_diallog_1015">
+		<text>No, man. The fact that I'm all right is all in your mind. I'm gonna fry you and eat you up... Actually, I won't even fry you..</text>
+	</string>
+	<string id="aes_sergeant_diallog_1016">
+		<text>Like little children... He... he.... Over there is the radiochemical reconnaisance... Went in by helicopter... Counted on them... And after five seconds... And then they destroyed... our troops... and also... in a couple minutes... it kicked their ass... Only I... managed to... kill two of them...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1017">
+		<text>Warriors... You got over here fast! The radar, like, just got shut down.</text>
+	</string>
+	<string id="aes_sergeant_diallog_1018">
+		<text>We've been here for a month... Two steps away, on the very border of the Zone we busted our nuts... in full readiness... the battle... is the battle still going on?..</text>
+	</string>
+	<string id="aes_sergeant_diallog_1019">
+		<text>There is such a thing. Someone made a noise unjokingly.</text>
+	</string>
+	<string id="aes_sergeant_diallog_1020">
+		<text>Maybe one of the remaining alive... could gain a foothold... We had a task... the task was - to capture the road to the Sarco... he... he... Sarcophagus... if anything, wait for reinforcements...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1021">
+		<text>Reinforcements?</text>
+	</string>
+	<string id="aes_sergeant_diallog_1022">
+		<text>Dad... our colonel said - we wouldn't fail... beasts... a pair of freaks...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1023">
+		<text>What kind of reinforcements?</text>
+	</string>
+	<string id="aes_sergeant_diallog_1024">
+		<text>Spetsnaz... also: we fucked up, they will come... I thought we'd shoot them... he...a little...and then to war... Don't go straight on the road...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1025">
+		<text>Vasya! What is there about the spetsnaz?.. Look at me! Don't close your eyes!..</text>
+	</string>
+	<string id="aes_sergeant_diallog_1026">
+		<text>Аh, it hurts!.. Аaaah... My home... without the helicopter there breaking through...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1027">
+		<text>Sergeant!..</text>
+	</string>
+	<string id="aes_sergeant_diallog_1028">
+		<text>So precise... sergeant Vasil Schastlivenko... the enemy... at least three machine gun posts, several snipers... Man, don't go... do not go there... he... he...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1029">
+		<text>Stay with me a bit more, sergeant! When? When will the spetsnaz arrive?..</text>
+	</string>
+	<string id="aes_sergeant_diallog_1030">
+		<text>А?.. СStalker... spetsnaz... we were hit, he... now...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1031">
+		<text>Now? Fiddlesticks...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1032">
+		<text>He... and you... what brought you here?.... he....</text>
+	</string>
+	<string id="aes_sergeant_diallog_1033">
+		<text>I want to get to the Monolith, and you?...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1034">
+		<text>I... also wanted to see it... but, no luck... Возьми мой ПДА.... he... there is a plan to capture the Sarcophagus...\nAll our groups... have these orders... Maybe, you are lucky... and will break through... and the Monolith will fullfill... your desires...</text>
+	</string>
+	<string id="aes_sergeant_diallog_1035">
+		<text>Thank you..</text>
+	</string>
+
+
+
+
+
+	<string id="bar_golg_docs_description_olr">
+		<text>Some sort of journal... In the center of the CNPP, there is a THING, that controls the expansion of the Zone; Something that controls a grand army of zombies, mutated animals, terrifying creatures and never seen before beings. That THING takes control of entire military garrisons; zombifies peaceful local villagers and creates gigantic squads of creatures that attack military outposts. That THING is the Black Monolith, created by an unknown race billions of years ago in the Earth's orbit. The Monolith appeared millenias before the first bacteria appeared in the Earth's oceans...</text>
+	</string>
+
+
+
+	<string id="garb_miliraty_docs_description_olr">
+		<text>Documents containing information about a large-scale military breakthrough to the center of the Zone. Traders might be interested in this information.</text>
+	</string>
+
+
+	<string id="jornal_1_description_olr">
+		<text>First part of the MedPribor Institute documents. Contains reports of the genetic experiments done in the Zone and plans of storage rooms (at the Garbage), where dangerous materials were contained. Also contains tips about the documents stored there, a list of the institute personnel, reports about the organization of biowaste dumps and problems related to that. The decision - biowaste made during the experiments is to be transported into the Garbage and buried under tonnes of metal waste and debree that is located nearby. There is also a mention of the hangar at the Garbage and collectors in there.</text>
+	</string>
+
+
+	<string id="jornal_2_description_olr">
+		<text>Documents from the Garbage. Reports of the organization of biowaste dumps. Information about materials stored in the local warehouses. List of the warehouse employees. Plan of the storage facilities from before the catastrophe. Status report of bringing in biowastes from the MedPribor Institute. A mention of Silent Hills. Main warehouse building...</text>
+	</string>
+
+
+	<string id="jornal_3_description_olr">
+		<text>Part 2 of MedPribor documents. Status report of the work done there. Status report of the moving of biowastes to the Garbage. Material needed for experiments. List of experiment locations before the catastrophe. Description of what was being done there, list of employees, etc. Status report about the experiment done in cooperation with the psichotropic laboratory. Documents containing info about the evacuation of institute personnel during the incident. Mention the hangar at the Garbage. Underground canal pipes.</text>
+	</string>
+
+
+	<string id="jornal_4_description_olr">
+		<text>Documents from the Silent Hills. Contain fragments of the description of one of the research facilities at lake Yantar; list of necessary security measures to be taken during experiments; reports of experiments with gravitational concentrats. Contain a mention to the main complex at Yantar.</text>
+	</string>
+
+
+	<string id="jornal_5_description_olr">
+		<text>Documents from Yantar. Contain info about experiments with psy-weaponry, planning targets, list of personnel, problems. A detailed description of the psi antenna and it's layout plan. In the plan there are marked emergency exits and exits from the complex under the antennas. Mention of the Radar area. Emitters. Control room.</text>
+	</string>
+
+
+	<string id="jornal_6_description_olr">
+		<text>Various documents from the Radar area. They contain information about the tests of the antenna systems, a report detailing work progress reports from personnel, a description of the Monolith, and various psychotronic weapon schematics. There's also a reference to a specific school building in Pripyat.</text>
+	</string>
+
+
+	<string id="jornal_7_description_olr">
+		<text>Documents from the city of Pripyat. Description of a mini-emission at the central lab close to the CNPP. Note: So you found my notes. I'll be in Freedom territory. You'll find me in one of the houses at the city bounds. - Journalist</text>
+	</string>
+
+
+	<string id="olr_strelok_fleshka_description_olr">
+		<text>Pendrive belonging to the legendary Strelok. In addition to a few notes about the first trip to the center, it contains a message about important info spread across 7 documents and hidden in 7 different spots in the Zone. Note: first 2 documents are located at the MedPribor Institute, in both of the complexes.</text>
+	</string>
+
+
+
+
+</string_table>

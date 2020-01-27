@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="vehicles_control_name">
+		<text>Controlling transport</text>
+	</string>
+	<string id="vehicles_back_door_close">
+		<text>Close the trunk door (T)</text>
+	</string>
+	<string id="vehicles_back_door_open">
+		<text>Open the trunk door (T)</text>
+	</string>
+	<string id="vehicles_engine_close">
+		<text>Close the cowl (T)</text>
+	</string>
+	<string id="vehicles_engine_open">
+		<text>Open the cowl (T)</text>
+	</string>
+	<string id="vehicles_door_close">
+		<text>Close the door (T)</text>
+	</string>
+	<string id="vehicles_door_open">
+		<text>Open the door (T)</text>
+	</string>
+	<string id="vehicles_box">
+		<text>Search the trunk ($$ACTION_USE$$)</text>
+	</string>
+	<string id="vehicles_box_t">
+		<text>Search the trunk (T)</text>
+	</string>
+	<string id="Vehicles">
+		<text>Transport</text>
+	</string>
+
+	<string id="vehicles_group">
+		<text>Transport</text>
+	</string>
+
+	<string id="enc_vehicles_control">
+<text>
+Door/BTR hatches - T\nTurn on/off - $$ACTION_turn_engine$$\nControl - $$ACTION_forward$$, $$ACTION_lstrafe$$, $$ACTION_back$$, $$ACTION_rstrafe$$\nGear shift - $$ACTION_crouch$$, $$ACTION_accel$$\nHandbrake - $$ACTION_jump$$\nHorn - O\nHeadlights - $$ACTION_torch$$\nRadio cassette player - Y\nCamera control - $$ACTION_cam_1$$, $$ACTION_cam_2$$, $$ACTION_cam_3$$ (zoom by +,-).\nThe trunk is opened by pressing $$ACTION_use$$ (sometimes T) outside the car.
+</text>
+	</string>
+
+	<string id="vehicles_benzin_name">
+		<text>Refueling</text>
+	</string>
+	<string id="enc_vehicles_benzin">
+		<text>How to refuel a car.\n
+\nFirst, find or buy a cansiter with fuel. Sit in the car, open the inventory, and click the RMB (right mouse button) on the brown canister in the inventory. Click "Use".
+\n \nThe empty green canister will appear in the inventory after refuelling. Further it can be used to merge fuel in it. To transfer from one car to another, for example.</text>
+	</string>
+
+	<string id="vehicles_benzin_off_name">
+		<text>Fuel discharge</text>
+	</string>
+
+	<string id="enc_vehicles_benzin_off">
+		<text>How to merge fuel from the gasoline tank.\n
+\nSit in the car, open the inventory, and click the RMB (right mouse button) on the green canister in the inventory. Click "Use".
+\n \nThe green canisters appear in the inventory after the first refuelling of any car.</text>
+	</string>
+
+	<string id="vehicles_tools_name">
+		<text>Car repairing</text>
+	</string>
+
+	<string id="enc_vehicles_tools">
+		<text>How to repair a car.\n
+\nAt first buy tools. Sit in the car, open the inventory, and click the RMB (right mouse button) on the box in the inventory. Click "Use".
+\n \nToo poorly or too strongly damaged cars are fail to repair.\n \n To remove smoke after repairing, leave the car, press F6-F7 and then sit in the car again.</text>
+	</string>
+
+	<string id="vehicles_invbox_name">
+		<text>Luggage carrier</text>
+	</string>
+
+<string id="enc_vehicles_invbox">
+<text>
+1. The trunk is opened by pressing F,Enter (sometimes T) outside the car.
+\n \n2. Zaporozhets has the front trunk, other cars have the back trunks.
+\n \n3. Sometimes the trunk can lag behind the car. At first stick with a mouse into a back part of the car till the "Search the trunk" inscription appears. In case of missing it, stick with a mouse into the ground after the car.
+\n \n4. Use the trunks at the flat geometry only. At the curve geometry there will be problems with truck detection or even game crashes, if to stand too close to the car.
+</text>
+</string>
+
+	<string id="vehicles_gluki_name">
+		<text>About the game bugs</text>
+	</string>
+
+<string id="enc_vehicles_gluki">
+<text>
+1. It is not recommended to save the game when in car. Leave the car at first.
+\n \n2. After level changing when in car (or after loading when in car) do not leave it at once, you have to drive off several meters. Or you will get stuck at the exit.
+\n \n3. If after level changing when in car (or after loading when in car) the hands are not precisely located on a driving wheel, legs are visible instead of hands or the external camera is buggy, so leave the car, make the save-load (F6-F7) and get back into the car.
+\n \n4. If the car got stuck without the obvious reasons (the motor works, but does not go), leave the car, save, exit to windows and start the game again.
+\n \n5. If the car slides strangely, reload the game.
+\n \n6. The position of the bought cars is displayed on the map only till the first loading of the saved game.
+</text>
+</string>
+
+<!-- не задействован -->
+	<string id="Uaz">
+		<text>UAZ</text>
+	</string>
+	<string id="enc_vehicles_uaz">
+		<text>Soviet army jeep.</text>
+	</string>
+
+<!-- btr-70 -->
+	<string id="btr-70">
+		<text>BTR-70</text>
+	</string>
+
+<string id="enc_vehicles_btr-70">
+<text>
+An armored personnel carrier.\n
+\nValue:  15000 rubles.\n
+Capacity: sixteen people.\n
+Carrying capacity: 1000 kg\n
+Necessary to work: fuel supply.
+</text>
+</string>
+
+<!-- Niva -->
+	<string id="Niva">
+		<text>Niva</text>
+	</string>
+
+<string id="enc_vehicles_niva">
+<text>
+An off-road car.\n
+\nValue:  1800 rubles.\n
+Capacity: four people.\n
+Carrying capacity: 200 kg\n
+Necessary to work: fuel supply.
+</text>
+</string>
+
+<!-- Niva sport -->
+	<string id="Niva_sport">
+		<text>Niva sports car</text>
+	</string>
+
+<string id="enc_vehicles_niva_sport">
+<text>
+A customized car.\n
+\nValue:  7800 rubles.\n
+Capacity: four people.\n
+Carrying capacity: 250 kg\n
+Necessary to work: fuel supply.
+</text>
+</string>
+
+<!-- Zapor -->
+	<string id="Zaporozh">
+		<text>Zaporozhets</text>
+	</string>
+
+<string id="enc_vehicles_zaporozh">
+<text>
+A small Soviet car.\n
+\nValue:  1000 rubles.\n
+Capacity: two people.\n
+Carrying capacity: 150 kg\n
+Necessary to work: fuel supply.
+</text>
+</string>
+
+<!-- Kamaz -->
+	<string id="Kamaz">
+		<text>KAMAZ truck</text>
+	</string>
+
+<string id="enc_vehicles_kamaz">
+<text>
+A commonly used Soviet truck.\n
+\nValue:  8000 rubles.\n
+Capacity: two people.\n
+Carrying capacity: 2000 kg\n
+Necessary to work: fuel supply.
+</text>
+</string>
+
+<!-- mi-24 -->
+	<string id="mi-24">
+		<text>Mi-24 helicopter</text>
+	</string>
+
+<string id="enc_vehicles_mi-24">
+<text>
+An army assault helicopter.\n
+\nValue:  25000 rubles.\n
+Capacity: ten people.\n
+Carrying capacity: 900 kg\n
+Necessary to work: fuel supply.
+</text>
+</string>
+
+<!-- Rafik -->
+	<string id="Rafik">
+		<text>Rafik</text>
+	</string>
+
+<string id="enc_vehicles_rafik">
+<text>
+A small truck.\n
+\nValue:  2400 rubles.\n
+Capacity: two people.\n
+Carrying capacity: 600 kg\n
+Necessary to work: fuel supply.
+</text>
+</string>
+
+<!-- Lada -->
+	<string id="Lada">
+		<text>Lada</text>
+	</string>
+
+<string id="enc_vehicles_lada">
+<text>
+A car.\n
+\nValue:  5000 rubles.\n
+Capacity: four people.\n
+Carrying capacity: 200 kg\n
+Necessary to work: fuel supply.
+</text>
+</string>
+
+<!-- Moskvich -->
+	<string id="Moskvich">
+		<text>Moskvich</text>
+	</string>
+
+<string id="enc_vehicles_moskvich">
+<text>
+A car.\n
+\nValue:  2000 rubles.\n
+Capacity: four people.\n
+Carrying capacity: 300 kg\n
+Necessary to work: fuel supply.
+</text>
+</string>
+
+
+</string_table>
